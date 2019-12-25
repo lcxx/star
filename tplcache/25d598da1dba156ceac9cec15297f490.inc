@@ -1,0 +1,18 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}玛丽皇后学院Adrian Sterling教授到访法学院 主讲“著作权的正当性、行使与未来”{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}法学院{/dede:field}
+{dede:field name='pubdate'}2010-06-17 09:00:40{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6月10日晚，应法学院王春燕副教授的邀请，英国伦敦大学玛丽皇后（Queen Mary）学院知识产权研究机构专业研究员、伦敦大学国王学院（King&rsquo;s College）客座教授、英国版权委员会副主席Adrian Sterling教授到访法学院，以&ldquo;著作权的正当性、行使与未来&mdash;&mdash;国家的、区域的和国际的视角&rdquo;为主题在明德法学楼601报告厅向法学院师生做了精彩的演讲，并与学院师生进行了充分的交流。</p>
+<p align="center"><img src="/uploads/allimg/c100619/z2kymzyyykmbhlf-zhylh.jpg" alt="" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sterling教授首先阐述了著作权诞生的历史：欧洲在500年前才发明印刷术。在那之前，如果想告诉你的朋友你思想或者作品的内容，得跑到教堂亲口对他说。当印刷术刚发明的时候，作者必须把自己的作品交给出版商，出版商付给作者报酬，然后作品的出版权就属于出版商，而作者不再有机会通过他的作品来赚钱。15至16世纪的时候，英国政府想控制出版业，任何人要想出版作品，必须先告诉政府自己想写的内容，获得政府的许可后才能出版。18世纪的英国，人权的观念开始兴起，人们开始考虑作者应该享有更多的权利。人的思想被认为是神圣不可侵犯的财产，应当给予更充分的保护。1710年，Anne Copyright Act 第一次提出对作者的保护应从出版的权利到作者权利的转变。但是英国并未接受作者权体系，因为人的思想领域十分复杂，而法律的规定是应当力求简单明了的。于是，英国将自己的版权法应用到所有的殖民地中，而没有用作者权的体系。但是其中有一个殖民地例外，那就是美国，美国在宪法中规定了保护作者的权利。 </p>
+<p align="center"><img src="/uploads/allimg/c100619/z2kymzyyymyyhbf-22kz2.jpg" alt="" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 教授之后谈到，当今世界上的著作权法体系分为普通法体系（common law system）和民法体系(civil law system)。中国的著作权法一直保持最新的状态，不像有些国家却还在沿用几百年前的著作权法。作者权（author&rsquo;s right）包括了精神权利（moral rights）和经济权利（economic rights）。大多数的著作权法都将精神权写在经济权之前。如何理解作者的精神权？举个例子说明。例如，某人在他的一本书中写到&ldquo;中国是个很好的国家&rdquo;，但是有人未经我的许可，在出版这本书的时候将这句话改为&ldquo;中国不是个很好的国家&rdquo;而其他的都不变。那么这个出版者就歪曲了作者的意思，其他的人会认为作者觉得中国是个不好的国家。这种行为就侵犯了作者的精神权利。作者有权禁止这种行为，并请求赔偿。而一个经济权的例子是，如果一个人创作了一首歌曲。他人在没有经过他同意的情况下通过P2P软件上传至网上，无数P2P软件的用户免费下载了这首歌曲。这样，歌曲的作者就失去了很大一部分的经济利益。这种行为就侵犯了作者的经济权利。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sterling教授认为，一个人的作品无论转变成什么形式都是应当受到保护的。就像我拥有一棵大树，就算这个树被做成一把椅子，其他人未经我的许可使用这把椅子都是对我权利的侵犯。对著作权如此充分的保护，其实就是为了保护作者权益。只有作者创作的作品得到充分的保护，才有更多的人愿意进行创作。1996年有25个国家加入了伯尔尼公约，中国也是其中之一。伯尔尼公约的核心理念就是：任何伯尔尼公约成员国可以保护来自其他成员国的公民在本国内的著作权问题，并且不仅仅是保护，而且是给予其他成员国公民本国公民一样的待遇。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 最后，Sterling教授强调，在当今世界，作品的传播变得非常普及便利。如果一个作品未经作者的许可就被广泛传播，那么结果往往是在事后处罚著作权的侵犯者，对其进行罚款或者将他关进监狱。而这并不是一种解决著作权问题的好方法。我们应在作品被非法传播之前控制局面，让这样一个传播行为必须经过一道许可。这样种方法才有利于更好的保护著作权。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在主题演讲结束之后，现场的同学踊跃提问，纷纷就著作权的必要性与正当性、著作权的激励机制、英国的版权法现状等向Sterling教授提出问题，教授耐心地解答了大家的疑问。 </p>
+<p>
+</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c100619/z2kymzyyykmbhlf-zhylh_lit.jpg{/dede:field}

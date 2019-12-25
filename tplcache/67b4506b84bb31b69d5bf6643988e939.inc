@@ -1,0 +1,16 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}2010人大健康传播与新闻传播学前沿问题研究暑期学校开学{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}新闻学院{/dede:field}
+{dede:field name='pubdate'}2010-07-01 05:17:20{/dede:field}
+{dede:field name='body'}<p>　　6月28日上午8：30，由人大新闻学院与美国宾夕法尼亚大学安妮伯格传媒学院共同主办的&ldquo;2010中国人民大学健康传播与新闻传播学前沿问题研究暑期学校在明德楼举行了开学仪式。本次暑期学校是面向全国研究生和新闻传播学科青年教师的高级国际教育项目，旨在通过各种互动方式切实帮助中国年轻学者拓宽学术视野、提高研究创新能力和国际化水平。在为期17天的课程中，将有17位新闻传播领域的国内外专家、知名学者在健康传播研究前沿、新闻传播学前沿两个方面举办讲座，61名学员均是来自国内知名高校新闻与传播院系的博士研究生和青年教师。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国人民大学常务副校长、研究生院院长袁卫，研究生院培养办主任宋东霞、新闻学院常务副院长倪宁，美国宾夕法尼亚大学全球传播研究中心主任Monroe Price教授以及来自全国24所高校、4家研究机构的61名学员出席了开学仪式。开学仪式由新闻学院副院长喻国明教授主持。&nbsp;</p>
+<p align="center"><img alt="" src="/uploads/allimg/c101124/z2mfbmffmzzy2nf-znffb.jpg" /></p>
+<p>　　袁卫常务副校长用流利的英语致辞。袁卫常务副校长指出，&ldquo;健康传播与新闻传播学前沿&rdquo;暑期学校是继去年以来的新闻学院第二个暑期学校项目，也是今年第一个暑期活动项目，国外权威专家和知名学者同来自全国各地的60多名同学将在为期17天的时间里组成一个大家庭，希望全体学员在暑期学校为大家搭建的这个平台上能够有精彩的表现，一起提高学习与创新能力。</p>
+<p>　　美国宾夕法尼亚大学安尼伯格传播学院全球传播研究中心主任Monroe Price教授在讲话中表达了对中国人民大学和国内外各位专家教授的感谢。Monroe Price教授指出，健康传播是目前研究与实践领域的重要议题，中国和美国在健康传播及新闻传播学前沿领域的一流学者将在本次暑期学校中共同传授知识。他鼓励各位学员以积极踊跃的态度参与到同各位老师的交流互动中来。 </p>
+<p align="center"><img alt="" src="/uploads/allimg/c101124/z2mfbmffmzylmf-2yb2h.jpg" /></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 出席开学仪式的还有中国人民大学新闻与社会发展研究中心主任郑保卫教授，新闻学院涂光晋教授、宾夕法尼亚大学Joseph Cappella教授、Robert Hornik教授。倪宁教授、MonroePrice教授分别在开学仪式上致词。涂光晋作为教师代表、中国人民大学新闻学院博士研究生吴文汐同学作为学员代表在开学仪式上发言。</p>
+<p>　　开幕仪式结束后，美国宾夕法尼亚大学Joseph Cappella教授和Robert Hornik教授进行了第一天的授课，为期17天的暑期学校课程正式拉开帷幕。</p>
+<p>&nbsp;　　（编辑：於萍萍）</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c101124/z2mfbmffmzzy2nf-znffb_lit.jpg{/dede:field}

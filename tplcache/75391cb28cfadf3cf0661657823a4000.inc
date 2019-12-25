@@ -1,0 +1,2 @@
+<div style="text-align:center"><strong>[field:title function="cn_substr('@me',30)"/]</strong></div>
+     &nbsp;&nbsp;&nbsp;&nbsp; <a href='/plus/view.php?aid=[field:id/]' target='_blank'>[field:description function="cn_substr('@me',100)"/]¡­ [ÔÄ¶ÁÈ«ÎÄ] </a> <br />

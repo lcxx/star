@@ -1,0 +1,24 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}中国人民大学召开高水平运动队建设工作研讨会   教育部体卫艺司负责人到校调研{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}文/校报  李海娇{/dede:field}
+{dede:field name='pubdate'}2011-03-31 11:53:03{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3月29日下午，教育部体卫艺司司长杨贵仁前往中国人民大学调研，并出席学校高水平运动队建设研讨会。中国人民大学党委常务副书记、校体委主任牛维麟，党委副书记、校体委副主任马俊杰出席研讨会，学校体育部和相关部处负责人参加会议。 </p>
+<p align="center"><img src="/uploads/allimg/c110418/zlflzzhbbnlz2yf-zbzn2.jpg" alt="" /></p>
+<p align="left"><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 会议重点对中国人民大学高水平运动队的建设思路进行了探讨。体育部主管训练工作负责人吴永宏介绍了学校在高水平运动队建设中取得的成绩，学校今后建设高水平运动队的规划、目标和举措。体育部主任雷达教授阐述了高水平运动队建设的总体思路，并就如何解决现阶段工作中遇到的主要问题提出了建议。与会代表也先后就中国人民大学高水平运动队建设工作提出了意见、设想和可行性方案，并一致表示要全力支持学校高水平运动队的建设。 <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 牛维麟常务副书记指出，中国人民大学运动队曾经取得了辉煌的成绩，学校一定要把光荣传统继承延续下去，将中国人民大学高水平运动队建设好、发展好。他强调，当前要明确未来几年的工作目标、工作对象和发展方向。高水平运动队的建设不能只靠一两个部门的努力，需要全校各部门相互配合，举全校之力来共同完成。同时，在具体的实践中，也应借鉴其他学校的成功经验，总结失败教训，并且根据自身的实际情况，创造性地提出一些切实可行的方案，将学校的高水平运动队管理好、建设好。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 马俊杰副书记指出，中国人民大学开展高水平运动队建设具有三大优势，一是学校有着优良的体育传统，体育事业发展起点高；二是在学校历史上，高水平运动队曾为学校和北京市赢得了众多的荣誉；三是学校具有很高的社会声望，报考学校体育、艺术特长生的学生水平高。相信中国人民大学有能力也有责任办好高水平运动队。 <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在听取讨论后，杨贵仁司长表示，通过对学校高水平运动队相关工作介绍，可以看到中国人民大学对此项工作的高度重视。人民大学有着优良的体育传统，人民大学的体育工作应在全国高校中起到带头和表率作用。他强调，大学要建设高水平运动队，就必须处理好学、训之间的矛盾，要拥有高水平的教练。他建议，训练本身也是学习，学生运动员的训练和比赛成绩应计入学业考核，要建立健全机制，为学生运动员的全面发展，为训练水平和比赛成绩的提高创造条件。当前，人民大学应进一步加强师资队伍建设，满足高水平运动队建设和面向全体师生的体育教学需要。 </p>
+<p align="center"><img src="/uploads/allimg/c110418/zlflzzhbbnykhmf-2nblz.jpg" alt="" /></p>
+<p align="left"><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 会后，杨贵仁司长在牛维麟常务副书记、马俊杰副书记及校体育部负责人的陪同下，参观了学校排球馆、羽毛球馆、田径场、网球场等体育场地，并与正在训练的学生运动员交流。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （编辑&nbsp; 燕燕）<br />
+<br />
+</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c110418/zlflzzhbbnlz2yf-zbzn2_lit.jpg{/dede:field}

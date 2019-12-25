@@ -1,0 +1,13 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}外国语学院第一期手机报成功发行{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}外国语学院新闻中心 彭大伟{/dede:field}
+{dede:field name='pubdate'}2008-12-02 04:32:39{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12月1日，由外国语学院分团委指导、外国语学院团学新闻信息中心编辑的《外院手机报》首发成功，这标志着外国语学院首份手机媒体正式创刊发行。今后，师生们只要通过手机免费订阅《外院手机报》，每周就可以方便快捷地收到一份内容丰富的手机报。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 据悉，《外院手机报》以原有的外国语学院网站和《外院简讯》为基础，主要设置组织建设、科研创新、学生活动、学院风采等版块，通过移动飞信业务搭建起信息传播平台，以发送手机报的形式将学院重大新闻和团学活动热点等相关信息摘编成刊，每周一和周日定期向学院领导、师生发送。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 收到第一期《外院手机报》后，同学们普遍给予好评，2007级徐同学表示：&ldquo;有了手机报，我们能更及时地了解学院的最新情况和各项活动，这的确是一项惠及师生的好举措。&rdquo; <br />
+</p>
+<p>（编辑：戴甜） <br />
+</p>{/dede:field}
+{dede:field name='litpic'}{/dede:field}

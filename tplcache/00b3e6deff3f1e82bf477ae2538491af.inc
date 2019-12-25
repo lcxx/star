@@ -1,0 +1,22 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}社会与人口学院各党支部参观“复兴之路”大型展览{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}张志洋  程溪  谢凤娟{/dede:field}
+{dede:field name='pubdate'}2009-11-19 09:00:43{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为深入学习贯彻党的十七届四中全会精神，社会与人口学院09级人口学硕士研究生班全体党员和部分同学，07、09级本科生联合党支部，08级本科生及09级社会学硕士研究生党支部分别在11月13日、11月15日和11月18日参观了在国家博物馆举办的&ldquo;复兴之路&rdquo;大型展览。</p>
+<p align="center"><img alt="" src="/uploads/allimg/c100622/z2kkzlknk2n22nf-zmmyb.jpg" /></p>
+<p align="left"><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ldquo;复兴之路&rdquo;大型展览是在伟大祖国60周年华诞、中国共产党建党88周年和改革开放30年之际，由国家博物馆主办的大型展览。展览通过回顾1840年鸦片战争以来，中国各阶层人民在屈辱苦难中奋起抗争，为实现民族复兴进行的种种探索，特别是中国共产党领导全国各族人民争取民族独立、人民解放、国家富强、人民幸福的光辉历程，充分展现了历史和人民是如何选择了马克思主义、选择了中国共产党、选择了社会主义道路，从而使中华民族以崭新的姿态屹立于世界东方。 <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 参观展览的同学分别参观了中国沦为半殖民地半封建社会、探索救亡图存的道路、中国共产党肩负起民族独立人民解放的历史重任、建设社会主义新中国、走中国特色社会主义道路这五个历史时期的展览。近距离接触陈列的历史照片、浮雕模型、油画及珍贵文物等，真实地感受到了处于危难中的中华民族不断斗争的顽强和中国共产党领导下的中国各族人民实现中华民族伟大复兴的艰辛。活动最后，同学们纷纷表达了自己&ldquo;常怀忧党之心、恪尽兴党之责&rdquo;的决心。 <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 这次活动作为学院各党支部学习十七届四中全会会议精神的一部分，在学院同学中产生了很大的反响。同学们纷纷表示，个人命运与国家、民族的命运紧密交织，每个人都应该从自己做起，为实现中华民族的伟大复兴而努力。 <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 这次活动组织老师认为今年正值祖国60周年华诞，大学生应该参加此类活动来提升自身责任感和使命感，学生党支部更应发挥其核心作用，帮助同学们了解祖国历史，树立民族信心。 <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一名09级本科新生党员深有感触地说：&ldquo;通过此次红色之旅，我更加了解到了近现代中国的发展历程和中国人民不屈的奋斗精神，加深了我们对党和国家的热爱之情。我为我的祖国感到骄傲和自豪，我也会为中华民族的伟大复兴尽绵薄之力&rdquo;。 <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c100622/z2kkzlknk2n22nf-zmmyb_lit.jpg{/dede:field}

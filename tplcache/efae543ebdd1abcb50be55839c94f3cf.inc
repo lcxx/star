@@ -1,0 +1,33 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}新闻学院学子在“世博主题”电视作品竞赛中取得佳绩{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}新闻学院{/dede:field}
+{dede:field name='pubdate'}2010-11-16 09:25:56{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10月22日，由上海世博会事务协调局主办，中国网络电视台及上海百事通新媒体协办的&ldquo;世博寻宝&rdquo;视频大赛暨颁奖典礼在上海世博园主题馆内举行。中国人民大学新闻学院凭作品《一百八十四分之一--世博的延伸》荣获总决赛五项大奖之一：&ldquo;最佳团队奖&rdquo;，并入围&ldquo;最佳作品大奖&rdquo;前三名。同时，在10月20日首届中国大学生电视节上，中国人民大学新闻学院代表队拍摄的《未来就在这里》荣获&ldquo;世博主题竞赛单元&rdquo;三等奖（总第四名）。&nbsp; </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 今年5月初，在获知大学生电视节和&ldquo;世博寻宝&rdquo;比赛后，新闻学院雷蔚真老师组织王焓（2008级硕士）、陈陈（2006级广电班）、莫江江、单溦（2008级广电班）四名同学，成立上海世博电视作品参赛团队。5月中旬，指导老师率领4名小组成员抵达上海，在世博园进行了为期7天的拍摄。小组通过与世博各场馆的沟通，开始以《未来就在这里》为主题的专题片拍摄。该专题片以北京大学生陈陈和上海小女孩媛媛为主要人物，以她们在世博园中的经历为主线，讲述了两个来自不同地方、不同年龄、不同背景的人对于世博会所展现出的未来元素的体验、探索和思考。同时，小组利用零碎时间，同时进行另一个名为《动静世博》的小短片的拍摄，短片主要记录世博园中白天和晚上不同的风情，形成动与静的强烈对比。 </p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c101124/z2mfbmffbnf2ynf-z2mhl.jpg" /></p>
+<p align="center">第一批团队成员在世博美国通用馆合影 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9月9日，胡锦涛总书记来到中国人民大学视察，在参观新闻学院思科网真演播实验室时，观看了《未来就在这里》的片段，并与主创代表陈陈同学亲切交谈。该片在10月份送交首届中国大学生电视节，获得总第四名。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9月中旬，在雷蔚真老师组织第二支团队2009级广电班陈飞鹏、刁思远、张翔参加了&ldquo;世博寻宝&rdquo;第五季的比赛。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第五季比赛以&ldquo;城市记忆&rdquo;为主题。经过前期构思和准备，小组决定拍摄展现老北京生活和城市风貌的题材参赛。小组成员来到了北京的钟鼓楼，跟踪拍摄了在那里拉车的车夫们的生活。短片选取了具有典型性的人物老何，表现普通车夫对北京这座城市的热爱。经过后期剪辑，完成了参赛作品《板儿爷老何》。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9月末，小组成员赴南京参加世博寻宝季赛。张翔、陈飞鹏代表团队录制了上海电视台的节目。在录制现场，两位选手与黄秋生、刘伟强等评委互动，获得了专业评审和大众评审的一致认可，并以抢答环节的出色表现挺进三强，最终进入决赛。录制的世博寻宝现场节目于10月8日在东方卫视播出。 </p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c101124/z2mfbmffbnblzf-2hmmy.jpg" /></p>
+<p align="center">南京季赛录制现场，张翔、陈飞鹏同学与评委、香港著名导演刘伟强合影 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10月初，主办方通知了决赛的题目：《一百八十四分之一》。上海世博会一共进行一百八十四天，理解此题目的关键在于&ldquo;之一&rdquo;。那么这个&ldquo;之一&rdquo;究竟代表什么呢？团队成员经过思考理清了基本思路。世博会的一天可以是&ldquo;之一&rdquo;，参加过世博会的一分子也可以是&ldquo;之一&rdquo;。但不能忘记的是，在中国更遥远的贫困地区，有很多孩子没有办法成为世博会的&ldquo;之一&rdquo;，世博的精神应该在世博会之外得到延伸。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 摄制组在国庆长假开始拍摄，跟随曾担任过上海世博会志愿者的人大商学院硕士生关一同学，一起来到她三年前支教过的河北张家口李家地的一个国家级贫困县，记录下关一跟那里的孩子们分享做世博志愿者感受的过程。由于李家地十分贫困和偏僻，离张家口较远，交通极为不便。但成员们都积极想办法，克服困难，最终到达李家地小学高效率的完成了拍摄任务。 </p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c101124/z2mfbmffbnynfyf-llhyy.jpg" /></p>
+<p align="center">第二批团队成员在位于国家级贫困县的李家地小学 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 回到学校，小组在天安门、学校等地取景补拍了部分镜头之后就进入了紧张的后期制作阶段。由于制作时间很紧张，作品有严格的时长限制，再加上是参加总决赛的作品，所以成员们丝毫不敢怠慢，而是投入百分之百的精力制作短片，对每个镜头都精益求精。在团队成员的共同努力下，终于在10月中旬完成了世博寻宝决赛作品《一百八十四分之一-世博的延伸》的制作。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10月21日，雷蔚真老师带领第二支团队成员来到上海参加世博寻宝总决赛。陈陈作为组委会特邀嘉宾也一同来到上海。世博寻宝决赛暨颁奖典礼的录制现场在世博园区内，共有七组选手入围了最终的决赛，决赛的评委由业界专家和世博局相关领导组成。张翔作为代表参加了节目的录制。《一百八十四分之一-世博的延伸》得到了评委们的高度赞扬和肯定。2010上海世博会官方电影总导演周亚平认为，这部片子用以小见大的方式表现了世博的主题，内容真实而感人，画面活泼而有感染力，揭示出世博会在中国这样的发展中国家举办的真正意义。同时，他还鼓励大学生多多参与到记录片的创作中去。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ldquo;世博寻宝&rdquo;计划共计12000余人和5000多部作品参赛，历时6个月，包括5场月度晋级赛和1场总决赛。颁奖典礼中，中国人民大学新闻学院代表队以优异的成绩获得最佳团队奖，这也是全部五项大奖中唯一获奖的高校代表。 </p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c101124/z2mfbmffbmzhlkf-hblzb.jpg" /></p>
+<p align="center">荣获最佳团队奖的成员与世博寻宝计划的荣誉主席、国际展览局秘书长洛塞泰斯合影 </p>
+<p>【相关链接】<a href="http://xiyou.cntv.cn/video/1334e142-a9d7-11df-a7da-001e0bbafa7a">参赛作品《未来就在这里》</a>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<a href="http://v.ku6.com/show/d8U86T9Fm-ezvN4Y.htm">参赛作品《板儿爷老何》</a>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<a href="http://xunbao.2010expotv.com/september/index.shtml">第五季月度季选</a>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<a href="http://xiyou.cntv.cn/video/83ed8d64-db76-11df-8de9-001e0bbafb46">参加总决赛作品《一百八十四分之一--世博的延伸》</a>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<a href="http://xiyou.cntv.cn/video/2345a65c-e1b8-11df-be82-001e0bbb2454">世博寻宝颁奖典礼 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （编辑：卢思颖）<br />
+</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c101124/z2mfbmffbnf2ynf-z2mhl_lit.jpg{/dede:field}

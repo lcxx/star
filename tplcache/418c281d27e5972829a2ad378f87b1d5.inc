@@ -1,0 +1,24 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}中国人民大学校园无线网络启用典礼暨中国移动北京公司构建无线校园新生活启动仪式举行{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}网络与教育技术中心{/dede:field}
+{dede:field name='pubdate'}2011-04-08 09:34:09{/dede:field}
+{dede:field name='body'}<p align="center"><img alt="" src="/uploads/allimg/c110418/zlflzzhbynmk2zf-n2ynh.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4月8日，中国人民大学校园无线网络启用典礼暨中国移动北京公司构建无线校园新生活启动仪式在中国人民大学逸夫会堂举行。中国人民大学校长纪宝成教授、党委副书记、副校长王利明教授、中国移动北京公司田利民书记、教育部教育管理中心副主任罗方述同志、北京教育网络和信息中心主任、书记、电化教育馆馆长武装教授、北京联合大学副校长张连城教授、北京大学信息化建设和管理办公室种连荣教授出席了启用典礼，与首都30余所高校的信息化负责人和中国人民大学300余名师生代表一起共同见证了中国人民大学信息化建设中了一个历史时刻。</p>
+<p align="center"><img alt="" src="/uploads/allimg/c110418/zlflzzhbyml2zbf-mhmfh.jpg" /></p>
+<p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国人民大学是一所以人文社会科学为主，兼有部分理工学科的综合性研究型全国重点大学。进入新世纪，学校新一任领导班子正式确立了&ldquo;绿化、美化、人文化、数字化&rdquo;校园建设新目标，经过近十年&ldquo;高起点、大规模、入主流、跨越式&rdquo;的建设与发展，学校信息化建设可量化的指标均呈倍数增长，信息化资产总值约占全校设备总值的五分之一。尤其在应用建设领域，学校痛下决心，突破部门界限，全部重新构建了以业务协同为主的数字校园新应用，基本消除了信息孤岛，网上办公高效流畅，网上教学生动活泼，网上服务渐趋完善，信息资源日益丰富，高度共享。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp; &nbsp;中国人民大学的无线网络建设起始于2007年，到2009年底发展到305个AP点，仅覆盖了少数公共区域，完全不能满足全校师生随时随地接入互联网的强劲需求。2010年初，中国移动北京公司表达了襄赞教育、合作建设校园无线网的强烈意愿。经学校领导批准，2010年6月21日，中国人民大学与中国移动北京公司正式签署了《校园无线网络建设合作协议》。经过近一年的建设，新增无线AP点1092个，独立组网，覆盖了所有公共教学区、公共办公区等共计29座楼宇，极大地改善了学校的上网条件，是目前首都覆盖最密集、体系最完善的高校之一。此次启用典礼标志着中国人民大学校园无线网络三期工程全面完成并投入使用。 </p>
+<p align="center"><img alt="" src="/uploads/allimg/c110418/zlflzzhbymln22f-zfmmzz.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国移动北京公司与中国人民大学签署无线校园合作协议后，又先后与中国农业大学、北京交通大学、北京林业大学等13所高校达成合作，共同开展校园无线网络建设。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 此次典礼突出&ldquo;绿色&rdquo;、&ldquo;科技&rdquo;概念，全部采用中国移动&ldquo;网信&rdquo;下发电子邀请函，嘉宾签到也改为利用手机进行&ldquo;二维码&rdquo;扫描。现场还部署了&ldquo;即拍即传&rdquo;应用，用户可以采用配备有无线发射装置的相机，随时随地的抓住瞬间的精彩，并通过&ldquo;无线网络&rdquo;传输到照片服务器上，并通过网络实现异地存取，大大提高了新闻采制效率。在仪式的启动环节，更是利用WLAN网络使用G3移动终端实现。令嘉宾和师生充分感受无线网络的魅力和校园信息化的建设成果。</p>
+<p>媒体链接： <font color="#810081"><a href="http://www.bj.xinhuanet.com/bjpd_sdzx/2011-04/08/content_22479655.htm">[新华网]<font face="新宋体">中国人民大学建成全覆盖校园无线网络</font></a></font></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.jyb.cn/high/gdjyxw/201104/t20110410_424506.html">[中国教育新闻网]中国人民大学率先在北京高校启用校园无线网络&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.chinanews.com/edu/2011/04-08/2961190.shtml">[中国新闻网]中国人民大学建成全覆盖校园无线网络</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://news.cntv.cn/20110409/107586.shtml">[中国网络电视台]中国人民大学建成全覆盖校园无线网络<!--repaste.title.end-->&nbsp;</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://news.xinmin.cn/rollnews/2011/04/09/10158413.html">[新民网]人民大学率先启用校园无线网络</a> </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.cnii.com.cn/yy/content/2011-04/12/content_863383.htm"> [中国信息产业网]北京移动承建人民大学校园无线接入点逾千</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.morningpost.com.cn/xwzx/jjxw/2011-04-09/178905.shtml">[北京晨报]人大校园实现WiFi全覆盖<br />
+</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c110418/zlflzzhbynmk2zf-n2ynh_lit.jpg{/dede:field}

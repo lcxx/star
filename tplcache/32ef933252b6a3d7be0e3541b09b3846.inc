@@ -1,0 +1,35 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}中国人民大学外语教育六十周年庆典隆重举行{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}文/外国语学院 井水玉 孙诗颖 朱志美 图/网新社 毛岩政 曹蕗蕗{/dede:field}
+{dede:field name='pubdate'}2010-12-26 06:41:35{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 桃李枝头三千客，风雨兼程六十春。&nbsp;&nbsp;</p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c110113/z2mhnn2mhbzhlyf-zfyym2.jpg" /></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12月25日上午9时，由中国人民大学外国语学院主办的&ldquo;中国人民大学外语教育六十周年庆典&rdquo;仪式在逸夫会堂第一报告厅隆重举行。中国人民大学党委书记程天权，中国人民大学副校长杨慧林，外国语学院院长何其莘、党委书记张卫平、常务副院长张勇先，中国翻译协会常务副秘书长姜永刚，北京大学外国语学院副院长刘树森等百余名嘉宾、校友及师生代表齐聚一堂，同庆盛会，共谋蓝图。</p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c110113/z2mhnn2mhyfnllf-zzbznk.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国人民大学党委书记程天权发表了热情洋溢的讲话。他首先肯定了外国语学院多年来所取得的成绩，表达了学校对外国语学院的大力支持。程天权书记说：&ldquo;中国人民大学外国语学院为中国外语教育的发展起到了重要的推动作用。尤其是进入新世纪以来，外国语学院通过引进人才，培养新秀，挖掘潜力，提高办学层次，各语种的师资力量有了长足的发展，为学校培养优秀外语人才做出了重要贡献。值此外语教育六十周年之际，我代表学校对外国学院表示最诚挚的祝福。&rdquo; </p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c110113/z2mhnn2mhyl2hzf-z2znnm.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 外国语学院何其莘院长在讲话中回顾了学院的发展历程，强调了外国语学院在未来几年的规划目标，并感谢社会各界对人大外国语学院的支持与帮助。他决心带领所有师生共同努力，开展一批有学术影响力的科研项目，争取5年将英美语言文学建成北京市一级学科，使其在2020真正进入全国外国语言文学一流学科的行列。 </p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c110113/z2mhnn2mhynkzhf-zlzkkb.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 接着，中国翻译协会常务副秘书长姜永刚先生作为协作单位嘉宾代表致辞。他对人民大学外国语学院多年来一直对翻译事业的支持和投入表示了高度的赞扬和感谢，并希望两方继续建立各类培养外语翻译人才的有效机制，共筑具有国际水准的专业交流平台，培养更多的高素质人才。</p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c110113/z2mhnn2mhkhlklf-zhy2kl.jpg" /></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 作为高校嘉宾代表，北京大学外国语学院副院长、博士生导师刘树森在致辞中特别表达了对人民大学外国语学院教职工的高度赞扬，也肯定了学院过去在外语语言学科的发展和取得的成就。但也提出了一些问题，&ldquo;许多人认为外语是一门工具，而不是一门科学，从而导致外语学科无法与其他学科获得同等的资源配置，这是我们外语人所要努力改变的。&rdquo;&nbsp;</p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c110113/z2mhnn2mhkmmknf-zbnkll.jpg" /></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 外国语学院前系主任罗舜泉教授作为老教师代表发言，他回忆了学院在成立之初所面临的各种困难，以及学院师生克服困难的坚韧精神。罗教授说：&ldquo;我们外院不仅有辉煌的过去，更会有美好的未来。&rdquo; </p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 随后，外国语学院郭军教授、毕业生束宇、2007级德语系王铮同学分别代表教职工、校友及在校学生讲话。他们向外国语学院六十周年华诞表示衷心的祝贺，并表示将继续努力，为学院更好更快地发展贡献自己的一份力量。 </p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c110113/z2mhnn2mhnbkkbf-zynlnz.jpg" /></p>
+<p align="center">（图为老师代表外国语学院郭军教授发言）</p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c110113/z2mhnn2mhmfnkbf-zkkmfy.jpg" /></p>
+<p align="center">（图为外国语学院毕业生代表束宇同学发言）</p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c110113/z2mhnn2mhmybfkf-zn2hnl.jpg" /></p>
+<p align="center">（图为外国语学院在校学生代表王铮同学发言）</p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 庆典仪式上，在场嘉宾和校友观看了《中国人民大学外语教育六十周年》院庆专题片。该片记录了60年来外国语学院发展壮大的过程和取得的累累硕果，也带来了校友们的深切祝福和真挚祝愿。&nbsp;</p>
+<p align="left">　　庆典仪式由外国语学院常务副院长张勇先主持。</p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c110113/z2mhnn2mbfznlbf-zmbmmn.jpg" /></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在接下来的过程中，嘉宾和校友们共同欣赏了由外国语学院师生及校友代表们精心准备的文艺表演。开场健美操首先活跃了全场气氛；在随后的话剧《茶馆》中，英语专业的学生们用纯正的英语将中国传统话剧表现得淋漓尽致；校友左玉冰用优美的歌声将美好的祝福献给学院；由外国语学院教师带来的舞蹈《好日子》博得观众的阵阵掌声；最后，中英版《中人民大学之歌》的将全场气氛推向高潮。浩荡弦歌在会场久久萦绕，唱出了外国语学院莘莘学子勤勉求学，谱写外院新华章的坚定信念。 </p>
+<p align="center"><img height="333" alt="" width="500" src="/uploads/allimg/c110113/z2mhnn2mbfym2mf-2f2nfy.jpg" /></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国人民大学外国语学院是中国人民大学建校最早设立的学科之一。1937年，陕北公学成立之初即开设了俄文、英文课程，中国人民大学外语教育一路陪伴着学校从延安走来。直至1950年，中国人民大学成立俄文系。60年来，在几代&ldquo;外语人&rdquo;的共同努力下，外国语学院现已拥有外国语言文学一级学科硕士学位授予权，5个二级学科硕士点和5个本科专业，并已与世界近20所大学建立了师生交流关系。外国语学院以严谨踏实的学风和积极创新的精神已为社会各界输送了数以万计的优秀人才，在外事、翻译及文化交流等领域做出了突出贡献。外国语学院全体师生将以此为契机，振奋师生精神，汇集各界力量，为实现外国语学院的长远发展而努力奋斗，为把中国人民大学建设成为人民满意、世界一流的大学奋斗！</p>
+<p>&nbsp;　　（编辑&nbsp; 燕燕&nbsp;&nbsp; 毛岩政）<br />
+</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c110113/z2mhnn2mhbzhlyf-zfyym2_lit.jpg{/dede:field}

@@ -1,0 +1,18 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}民商法前言论坛召开“大规模侵权”法律对策研讨会{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}法学院{/dede:field}
+{dede:field name='pubdate'}2010-12-13 10:35:18{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12月11日下午，&ldquo;大规模侵权&rdquo;法律对策研讨会在明德法学楼602模拟法庭召开。参加此次研讨会的嘉宾有：中国人民大学法学院张新宝教授、清华大学法学院程啸副教授、上海社会科学院法学研究所助理研究员孙大伟博士、中南财经政法大学民法典研究所所长张红博士、国务院法制办法制研究中心李富成处长。此次会议由中国人民大学法学院姚辉教授和中南财经政法大学法学院麻昌华教授主持。</p>
+<p align="center"><img src="/uploads/allimg/c110113/z2mhnnhmlhbbl2f-z2kll.jpg" alt="" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 姚辉教授先简短介绍了&ldquo;大规模侵权&rdquo;这个课题的研究，并提到实际发生的事件如&ldquo;三鹿奶粉&rdquo;事件以及&ldquo;上海胶州路教师公寓大火&rdquo;案件为该课题研究提供了鲜活的素材，也引起了大家深刻的思考。法学院民商法博士研究生岳业鹏整理出一些&ldquo;大规模侵权&rdquo;的中外典型案例并向大家作了概括性的介绍。岳业鹏博士主要谈到&ldquo;大规模侵权案件&rdquo;多发性、受害人数众多、影响广泛性、举证困难、案件复杂性等特点。并指出目前&ldquo;大规模侵权&rdquo;案件赔偿的四种解决机制：行政主导型赔偿、设立赔偿基金、诉讼程序赔偿、和解等。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 接下来李富成博士对政府是如何处理&ldquo;三鹿奶粉&rdquo;事件作了一下回顾，政府在解决&ldquo;三鹿奶粉&rdquo;事件时从维护受害家庭的合法权益，维护社会稳定，考虑奶制品行业的发展，保障老百姓的食品安全等角度出发，在行政力量的主导下解决了受害家庭的赔偿问题。该事件体现了行政主导性赔偿的优点之一就是高效率性，受害人的权益能得到及时快速的救济。而且李博士认为应当通过&ldquo;三鹿奶粉&rdquo;事件探索出此类事情的处理模式，将其中一些成熟的做法制度化。行政方式解决赔偿问题有必要制度化。而且政府在这方面正在作出努力。 </p>
+<p align="center"><img src="/uploads/allimg/c110113/z2mhnnhmlhmnnhf-2hbzy.jpg" alt="" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 张新宝教授以&ldquo;大规模侵权案件&rdquo;的定义是什么为议题让大家进行了热烈的讨论。孙大伟博士指出&ldquo;大规模侵权&rdquo;案件的&ldquo;不确定性&rdquo;是其区分于传统型侵权案件的最重要的一点，&ldquo;大规模侵权&rdquo;案件的&ldquo;不确定性&rdquo;包括因果关系的不确定性，被告的不确定性等。麻昌华教授补充道：确定&ldquo;大规模侵权&ldquo;的标准还应当限定为&ldquo;人身利益&rdquo;，像网络侵权，计算机病毒传播，不能仅仅因为规模宏大也将其归类为&ldquo;大规模侵权&rdquo;，否则丧失研究该问题的意义。也不符合该问题对策研究的目的。程啸教授通过列举美国越南的落叶剂案来说明应当把&ldquo;受害人&rdquo;的不确定性，侵犯生命权、健康权、身体权作为确定&ldquo;大规模侵权&rdquo;的标准。张红博士认为不能用一般与特殊的关系来归类&ldquo;大规模侵权&rdquo;。&ldquo;大规模侵权&rdquo;也应当符合侵权法的构成要件，而结点在于救济困难。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 张新宝教授接着又提出为什么要采取特殊的法律对策来应对&ldquo;大规模侵权&rdquo;以及可以采取哪些法律对策等为主题展开了新一轮的讨论。张新宝教授针对第一个问题，分析了五个方面的原因，一是为受害者提供救济；二是维护社会稳定；三是维护各种受保护的权利之间的平衡；四是节省司法资源；五是负担的公平分配。在座的各位嘉宾对这两个问题都纷纷发表了自己的观点。孙大伟博士指出可以通过建立损害赔偿基金的方式来解决转型社会中的&ldquo;大规模侵权&rdquo;问题，同时也分析了损害赔偿基金的局限性。麻昌华教授强调对策研究要注重对弱者的保护。程啸教授认为保障受害人自由选择救济的途径这一点非常重要，同时强调要重视程序问题。张红博士谈到了基金赔偿，责任保险，举证责任倒置，惩罚性赔偿等四个方面的&ldquo;大规模侵权&rdquo;的救济途径。姚辉教授认为应当从制度目的这一出发点来研究这个问题。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 研讨会的最后，张新宝教授对解决&ldquo;大规模侵权&rdquo;的问题进行了总结，主要谈到诉讼结果型基金和诉讼替代型基金在解决&ldquo;大规模侵权&rdquo;问题方面的具体作用以及基金管理方面的问题。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 今天召开的研讨会，各位名师大家的热烈探讨，引起同学们对&ldquo;大规模侵权&rdquo;问题更大的兴趣和更广泛的关注。在现场提问阶段，各位教授对同学们的问题一一解答。最后，研讨会在热烈的掌声中圆满结束。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;（编辑：刘伟伟）<br />
+</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c110113/z2mhnnhmlhbbl2f-z2kll_lit.jpg{/dede:field}

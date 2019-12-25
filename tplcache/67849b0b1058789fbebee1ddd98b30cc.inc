@@ -1,0 +1,15 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}法学院诉讼制度与司法改革研究中心成功举办羁押巡视制度培训研讨会{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}法学院{/dede:field}
+{dede:field name='pubdate'}2010-03-29 10:07:55{/dede:field}
+{dede:field name='body'}<p>　　3月20日&mdash;23日，由中国人民大学诉讼制度与司法改革研究中心主办的羁押巡视制度培训研讨会在京成功举办。来自英国英中协会的高级项目经理欧泊怀先生，英国瑞慈人权中心主任马兰娜女士，英国独立巡视委员会的培训专家伊恩先生，辽源市羁押巡视制度试点项目的巡视员、辽源中医院院长王龙先生以及浙江绍兴市与河南驻马店市的各行业代表60余人先后参加了为期两天的培训研讨会。培训研讨会分为两期，开幕式分别由法学院陈卫东教授、程雷讲师主持。英中协会高级项目经理欧泊怀先生，浙江绍兴市人民检察院副检察长王惠中先生，陈卫东教授，驻马店市人民检察院检委会委员、政研室主任李年先生，法学院李奋飞副教授先后致辞。 </p>
+<p align="center"><img height="335" src="/uploads/allimg/c100619/z2kymzylhzfnkmf-22kn2.jpg" width="500" alt="" /></p>
+<p><br />
+　　在培训研讨会上，中方专家和教授介绍了遏制酷刑与羁押巡视制度的产生及其在中国的实践、羁押巡视制度的相关法律法规和在押人员的权利清单、羁押巡视的实施过程与实验等相关内容。外方专家就羁押的状况、机场拘捕的场景、如何对被巡视的在押人员进行访谈、如何与看守所的警察打交道等分组演练以及羁押巡视的目的、如何撰写羁押巡视报告、巡视时如何查看看守所的环境与设施等问题进行了交流。 </p>
+<p align="center"><img height="335" src="/uploads/allimg/c100619/z2kymzylhzn2lf-lmlbz.jpg" width="500" alt="" /><br />
+</p>
+<p>　　此次培训研讨会是继辽源羁押巡视培训研讨会后，法学院诉讼制度与司法改革研究中心举办的第二次培训研讨会，它为进一步试点羁押巡视制度，推进看守所改革，促进被羁押人的人权保障储备了人才，奠定了良好基础。法学院陈卫东教授、李奋飞副教授、程雷讲师先后授课，诉讼法学教研室的部分博士生、硕士生参加了此次培训研讨会。</p>
+<p>（编辑：安娜）</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c100619/z2kymzylhzfnkmf-22kn2_lit.jpg{/dede:field}

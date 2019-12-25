@@ -1,0 +1,16 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}新闻学院赵启正院长新著《公共外交与跨文化交流》亮相全国两会{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}新闻学院   文/张庆园{/dede:field}
+{dede:field name='pubdate'}2011-04-06 08:48:24{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 公共外交是今年全国&ldquo;两会&rdquo;期间政协委员们热议的一个重要话题。3月9日，赵启正院长新著《公共外交与跨文化交流》面世并在第一时间送抵正在参加全国&ldquo;两会&rdquo;的政协委员驻地，全国政协主要领导及部分委员获赠样书，引发热议，新华社还对此作了报道。 </p>
+<p align="center"><img src="/uploads/allimg/c110419/zlflznzbkynb2hf-lhlfb.jpg" width="333" height="500" alt="" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 全国政协委员、中国翻译协会副会长兼秘书长、国际翻译协会副会长黄友义认为，《公共外交与跨文化交流》是培养公共外交意识的一部难得的教材。全国政协委员、同济大学国际文化交流学院院长蔡建国则评价道：&ldquo;作者从长期的公共外交实践中总结提炼出一系列有意义的途径、办法和技巧，很有针对性、实效性和操作性，能帮助读者很快地了解并参与公共外交。&rdquo; </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 赵启正院长一直以来都是中国公共外交的实践者和倡导者，《公共外交与跨文化交流》荟萃了他二十余年的经验和思考，历时三年付梓。在书中，赵启正院长明确提出两点：第一、随着时代的发展，公众不再只是公共外交的受众，也成为了公共外交的主动参与者，这对于中国增强国际话语影响力有极为重要的意义。第二中国的公共外交是本着求同存异的和谐理念，以促进国与国之间相互了解为目标的、对外友好交流的活动，与有的国家在公共外交中以打压他国的手段来推销自己的价值观和干涉他国内政的做法有着本质的区别。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 《公共外交与跨文化交流》分为理念篇和实践篇两部分。理念篇生动的阐述了中国开展公共外交所应遵循的很多基本原理。例如，对外交往应当理直气壮在心、&ldquo;理直气和&rdquo;在表；多向外国人讲故事而不要只讲原理，因为&ldquo;苹果比维生素C片好吃&rdquo;&hellip;&hellip;由于赵启正院长的独特资历，理念篇所引用的案例和资料几乎都直接来自相关权威部门，他本人还是其中很多案例的直接发起者和参与者，如&ldquo;中国图书对外推广计划&rdquo;、&ldquo;孔子学院&rdquo;、&ldquo;北京-东京论坛&rdquo;等。而实践篇的案例则均是赵启正院长以往公共外交活动的精彩记录。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 赵院长邀请了新闻学院传播系主任胡百精副教授及赵院长的五名博士生参加了此书的纲目筹划、内容取舍、要点讨论以及初稿编辑的集体讨论。赵院长在序言中说，这一忘年相处，相互启迪的成书过程令他至为愉快。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ldquo;本书的首要价值是为相关研究和实践提供了历史的素材和案例。&hellip;&hellip;全书内容主要来自作者的亲身实践和体验,不是简单的文献集成,也不是实践的流水账,因而既可以增益学术思考,也可以提供实践参照。&rdquo;胡百精副教授在后记中写道。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （编辑：卢思颖）</p>
+<p>&nbsp;</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c110419/zlflznzbkynb2hf-lhlfb_lit.jpg{/dede:field}

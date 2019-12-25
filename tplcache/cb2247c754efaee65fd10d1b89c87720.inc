@@ -1,0 +1,20 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}财政金融学院2010年度迎新工作圆满完成{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}财金院 文/姚泽宇 图/刘腾 彭伊扬 偰屹{/dede:field}
+{dede:field name='pubdate'}2010-09-08 03:56:40{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;和谐财金铸新锐，春华秋实谱华章。9月7日，中国人民大学财政金融学院迎来了2010级本科、硕士以及博士新生。 </p>
+<p align="center"><img src="/uploads/allimg/c101124/z2mfbnmkhkzhfbf-bbk2m.jpg" alt="" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 上午5:30，财金院的工作人员开始在明德广场进行场地布置，做好了充分准备等待新生前来报到。财政金融学院院长郭庆旺、党委书记王宏伟、党委副书记黄文彬以及学生科、院团委的各位老师也亲赴迎新现场，热情地欢迎新生的到来并积极为新生们解决疑难问题。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 上午9:30，中国人民大学校长纪宝成教授一行到明德广场视察迎新工作，并与迎新现场的各学院领导、家长、新生们进行了亲切的交流。在经过财政金融学院迎新台时，纪校长向财金院领导们详细询问了有关财政金融学院新生男女比例、招生规模扩大等多方面的问题。随后，纪校长亲切慰问了财金院的工作人员，对他们的工作表达了关心和鼓励之情。此外，纪校长还和财金院排队等候报到的新生和家长展开对话，极大地拉近了校领导和学生的距离。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 时至傍晚，几乎所有新生们在工作人员的指导下纷纷按照流程，均已领取到相关材料、完成世纪馆拍照、办理好入住手续，顺利地完成了报到工作。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 晚上18:00，中国人民大学党委书记程天权亲自来到东风七楼，亲切慰问了2010级本科新生。在财金院党委王宏伟书记、黄文彬副书记的陪同下，程天权书记来到财金男生宿舍，与新生们展开交流，表达了对新生的热烈欢迎之情和殷切希望。程书记饱含深情地说道：&ldquo;在人大，你们只有努力发奋学习，才能报答父母养育之恩呐。&rdquo;许多新生听到程书记的谆谆教诲后，纷纷表达了自己成为国之栋梁的决心。 </p>
+<p align="center"><img src="/uploads/allimg/c101124/z2mfbnmkbfhbfzf-ykhyy.jpg" alt="" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 晚上19:00,财金院王宏伟书记、庄毓敏副院长、岳树民副院长、庞红副书记、黄文彬副书记等分别前往新生宿舍，给新生们带去了学院领导无微不至的关怀。王书记深切关心新生们对大学新环境的适应情况，他提到：&ldquo;财政金融学院是一个聚集着大江南北优秀人才的大家庭，这个大家庭充满着团结互助，但无可避免会有学习上的竞争和压力，财金学子要能端正心态，适应竞争环境，努力拓展自己知识面，成为真正的社会表率。&rdquo;岳副院长不厌其烦地提醒着新生们要注意安全，保持身体健康，再以旺盛的精力投入到学习中去，并且积极踊跃参加学校学院举办的各项文体活动，丰富自己的大学生活。此外，学院领导们还悉心回答了学生们提出的各种问题，让新生们感到如沐春风，欣喜万分。 </p>
+<p align="center"><img src="/uploads/allimg/c101124/z2mfbnmkbfb2hzf-khhzl.jpg" alt="" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 相信在所有学校以及学院领导们的深切关怀下，2010级新生们定能够继续传承财金精神，为财金大家庭注入更多的新鲜与活力，成长为具备复合型知识体系与能力的、有着健康身体与心智的杰出人才。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （编辑：徐晶晶） <br />
+<br />
+</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c101124/z2mfbnmkhkzhfbf-bbk2m_lit.jpg{/dede:field}

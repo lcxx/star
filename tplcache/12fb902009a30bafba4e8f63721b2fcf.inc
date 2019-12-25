@@ -1,0 +1,17 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}电影《静静的嘛呢石》慈善放映暨“玉树，我们在一起”主题募捐活动举办{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}法学院{/dede:field}
+{dede:field name='pubdate'}2010-05-24 10:40:27{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5月20晚六点半，电影《静静的嘛呢石》慈善放映暨&ldquo;玉树，我们在一起&rdquo;主题募捐活动在八百人大教室举行。此次活动由电影原创导演万玛才旦发起，法学院团委、法学院青年志愿者协会主办，获得了来自全校各学院师生的广泛关注和积极参与。活动现场邀请到了《静静的嘛呢石》剧组人员和数位在京藏族歌手参加。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 活动开始后，主持人首先介绍了本次活动的背景：为号召首都各高校师生为玉树地震灾区贡献自己的一份爱心，同时表达艺术创造者对生活的回馈，藏族导演万玛才旦发起了风格化的藏语电影在京慈善放映系列活动。《静静的嘛呢石》由藏族导演万马才旦执导，于2005年在青海拍摄完成，曾获金鸡奖新人导演奖、温哥华国际电影节&ldquo;龙虎&rdquo;特别提名奖等多项国内外重要奖项，在电影业界具有很高的声誉。此前，导演万玛才旦的另一部获奖作品《寻找智美更登》的慈善放映已于今年三月在北京百老汇电影中心开始进行，其间得到了首都各界爱心人士的热心支持。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 接着，身穿藏族特色服装的剧组人员和藏族歌手携手走上了舞台。他们以一首感人至深的《让生命站立成树》为玉树灾区的人民祈福。悠扬的歌声、动人的词曲，仿佛来自高原雪山的天籁，发出对生命的呼唤，让现场的观众无不为之动容&mdash;&mdash;&ldquo;我山，我水，我故土；我兄弟姐妹，我父母；天塌下来顶得住，地陷进去也不哭；我血，我脉，我宗族；我同胞骨肉，我民族；风雨来时谁退缩，扛起生命不迷途&hellip;&hellip;&rdquo;为灾区人民的坚强与不屈、为祖国同胞的浓浓真情而震撼、而感动。</p>
+<p align="center"><img src="/uploads/allimg/c100619/z2kymzybznnfnhf-zzblh.jpg" alt="" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 现场还请到了一位特殊的嘉宾，她是一名来自玉树的女孩，曾经在电影《可可西里》中出演角色。她代表玉树灾区的乡亲们向人大师生表达了他们的感谢，谢谢困境中来自我们人大的关怀与温暖。&nbsp;</p>
+<p align="center"><img src="/uploads/allimg/c100619/z2kymzyb2fzl2yf-2kz2h.jpg" alt="" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;随后，电影《静静的嘛呢石》在现场温馨和略带感伤的氛围中缓缓拉开了序幕。《静静的嘛呢石》以纪实的手法讲述了一个身处偏远寺庙的小喇嘛过年回家的故事。整部电影充满了禅意，朴素而不张扬的画面、简洁但独具特色的对白、不紧不慢地节奏，充满了&ldquo;原汁原味&rdquo;西藏风情，引人入胜。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 影片放映结束后，本次慈善放映活动在现场热烈而经久的掌声中落下了帷幕，活动之后，每位观众的内心都将留存这样一种信念，&ldquo;点燃的酥油灯，点燃高原所有希望；怒放的格桑花，怒放人间所有祝福；愿所有的生命都站立成树；化悲痛为力量，为建设一个美丽的新家园而努力奋斗，众志成城&rdquo;。观众们在退场时纷纷走到募捐箱前，为玉树灾区的同胞们献上了自己的一份爱心，表达了内心美好的祝愿。活动现场还迎来了许多在人大求学的藏族同学，他们在献上了自己的心意和祝福之后，还同来到现场的剧组人员和藏族歌手用藏语进行了交流，表达了他们对灾区同胞的牵挂。 </p>
+<p>
+</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c100619/z2kymzybznnfnhf-zzblh_lit.jpg{/dede:field}

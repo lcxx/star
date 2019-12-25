@@ -1,0 +1,21 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}创先争优系列活动——公共管理学院党委组织召开学生党支部书记培训会{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}图／文　公共管理学院{/dede:field}
+{dede:field name='pubdate'}2010-11-01 03:11:53{/dede:field}
+{dede:field name='body'}<p>　　为响应学校党委号召，落实&ldquo;公共管理学院创先争优系列活动方案&rdquo;的整体部署，中国人民大学公共管理学院党委在学院基层党支部中广泛开展创建&ldquo;先进支部&rdquo;、争当&ldquo;优秀党员&rdquo;活动。10月27日下午，学院党委在北京石油阳光会议中心组织召开学生党支部书记培训会，此次培训旨在用科学、专业的理论指导基层支部建设，切实提升基层支部工作的规范化、专业化水平。学校党委组织部副处级组织员吕力老师，学院党委副书记王丹老师，学院党务秘书谷昆鹏老师以及来自公共管理学院各系（所）的学生党支部负责人参加了此次培训会。培训会由党务秘书谷昆鹏老师主持。</p>
+<p>　　学院党委高度重视此次学生支部书记培训，因参加学校会议而未能出席此次培训会的 学院党委书记秦惠民教授，晚间专程赶往会议地点，看望各位支部书记，并与大家亲切交流。 </p>
+<p align="center"><img height="375" src="/uploads/allimg/c101124/z2mfbnnhyzlkkkf-yznkl.jpg" width="501" alt="" /></p>
+<p>　　吕力老师代表学校党委组织部以&ldquo;基层党支部如何做好组织发展工作&rdquo;为题，作了主题报告。吕老师总结了近年来我校学生党员发展工作的基本情况，提出新时期学生党员发展和学生支部建设的工作方针和根本要求，并结合自身多年的组织工作经验，详细分析了积极分子考察过程中存在的问题以及相关的解决方法。 <br />
+</p>
+<p align="center"><img height="375" alt="" width="501" src="/uploads/allimg/c101124/z2mfbnnhyzkbknf-kklk2.jpg" /></p>
+<p align="left">　　培训会上，王丹副书记指出，此次支部书记培训是学院&ldquo;创先争优&rdquo;系列活动的重要组成部分，是用科学发展观指导基层支部建设的具体实践，学院党委高度重视、充分支持；王丹副书记简要介绍了近年来公共管理学院基层党支部建设的基本情况，并提出今后学生党建工作将会沿着&ldquo;规范化&rdquo;和&ldquo;专业化&rdquo;的趋势开展，以期更好地满足广大同学的实际需求。 </p>
+<p align="center"><img height="375" alt="" width="501" src="/uploads/allimg/c101124/z2mfbnnhyznb2bf-nl2zf.jpg" /></p>
+<p>　　参会人员围绕&ldquo;支部会议召开的有效性&rdquo;、&ldquo;支部活动的丰富性&rdquo;以及&ldquo;支部推优标准细化&rdquo;等具体问题进行了热烈的讨论和较为深入地交流。大家纷纷表示，此次培训增强了大家对基层支部工作重要性的认识、理解，对做好基层支部工作、推进基层支部建设具有较强的指导意义，同时也为各支部搭建了一个交流经验的平台。</p>
+<p>　　王丹副书记作会议总结，他指出今后学院党建工作的开展将会更贴近同学们的日常学习和生活，同时，还鼓励各支部负责人在具体的工作中将所学的专业知识与支部的组织建设和活动开展相结合，将公共管理学院基层党建工作提升到一个新的高度。 </p>
+<p align="center"><img alt="" src="/uploads/allimg/c101124/z2mfbnnhyzmllnf-mzk2y.jpg" /></p>
+<p>　　
+</p>
+<p>&nbsp;</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c101124/z2mfbnnhyzlkkkf-yznkl_lit.jpg{/dede:field}

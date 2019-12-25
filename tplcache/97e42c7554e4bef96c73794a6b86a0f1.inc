@@ -1,0 +1,16 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}新闻学院举行“贺重阳”老教师茶叙会{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}新闻学院{/dede:field}
+{dede:field name='pubdate'}2010-10-15 05:41:00{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9月28日上午，新闻学院举行&ldquo;贺重阳&rdquo;老教师茶叙会，邀请罗列、方汉奇、蓝鸿文、秦珪、刘忠诚、傅金铎、孔繁根、刘天寿8位80岁以上老教师参加，请他们为学院发展建言献策。会议由学院常务副院长倪宁主持，党委书记高钢、副院长蔡雯、党委副书记罗建晖、胡百精参加茶叙。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 倪宁常务副院长在会上向老教师们汇报了今年学校和学院的发展变化及取得的成就，重点介绍了胡锦涛总书记视察学院的相关情况。他说，今年恰逢学院建院55周年，胡锦涛总书记亲临新闻学院视察，对学院所取得的成绩给予充分肯定，并对学院今后的发展指明了方向，全院师生将认真学习并积极贯彻落实胡锦涛总书记在新闻学院的重要讲话精神，培养出更多更好的创新型新闻传播人才，把学院的工作全面推向前进。&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学院老教师对学校和学院的事业发展十分关心，原新闻系主任罗列教授代表老教师发言，对学院近年的工作给予了肯定，他说，虽然兄弟院校发展很快，人大新闻学院仍保持了自己的特色和优势，在当前大好的发展条件下，应该继续发扬特色和优势，培养更多更好的新闻人才。&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 今年是罗列老师九十寿辰，倪宁常务副院长代表全院师生向罗老表达了祝福，衷心祝愿他健康长寿、万事顺意。他还向在座的其他老教授们送上了祝福，预祝大家重阳节快乐，希望老教师继续关心和关注学院的发展，为学院各项事业发展提出宝贵的意见。&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (编辑：周庆誉) <br />
+</p>{/dede:field}
+{dede:field name='litpic'}{/dede:field}

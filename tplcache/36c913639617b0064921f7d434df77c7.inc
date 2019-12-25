@@ -1,0 +1,15 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}《众生——徐唯辛作品展》在武汉美术馆展出{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}作者：艺术学院{/dede:field}
+{dede:field name='pubdate'}2010-05-13 03:17:34{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4月29日至5月16日，《众生&mdash;&mdash;徐唯辛作品展》在武汉美术馆展出。该展由中国人民大学艺术学院、武汉美术馆联合主办。展览展出了中国人民大学艺术学院常务副院长徐唯辛教授的124幅作品，包括《中国煤矿纪实&mdash;&mdash;矿工肖像系列》、作品《历史中国众生相1966-1976》的部分肖像以及早期写生、素描习作等。&nbsp;</p>
+<p align="center"><img alt="" src="/uploads/allimg/c110725/zlzzbyzhnhzfzbf-blkbkk.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 出席展览开幕式的有湖北省、武汉市美术界人士周韶华、魏光庆、徐建、武汉美术馆馆长樊枫、副馆长刘宇以及武汉美术馆工作人员。从北京、广东、山东、四川、云南赶来的展览赞助单位代表、企业家和艺术爱好者等嘉宾以及武汉当地艺术院校学生、观众等参加了开幕式。 <br />
+武汉美术馆馆长樊风先生在讲话中介绍了徐唯辛艺术的发展概况和作品的意义。徐唯辛教授在致辞中说，艺术作品只有在美术馆里与大众见面、交流，才算最后完成。他对主办单位、赞助单位及来宾、观众表示感谢。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 作为对武汉美术馆和武汉市民的感谢，徐唯辛教授特意创作了长期生活在武汉的著名作家徐迟先生巨幅肖像，在此次展出后捐赠给武汉美术馆。开幕式上，徐迟先生之子、湖北美术家协会秘书长徐建先生代表美术馆接受捐赠，武汉美术馆馆长樊风先生向徐唯辛教授颁发了收藏证书。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 此次展览正值&ldquo;五一&rdquo;期间，《当代众生相&mdash;&mdash;工农兵》系列、《2005中国煤矿纪实&mdash;&mdash;矿工肖像系列》引起了观众强烈共鸣和媒体关注。此次展览还展出了作品《历史中国众生相1966-1976》的几十幅黑白巨幅肖像，意图从个体微观角度出发，对那段十年历史进行视觉还原，唤起人们对历史的反思，以期待人们珍惜改革开放后中国社会的进步。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 值得一提的是，此次展出的徐唯辛素描写生作品为首次公开露面，其中大部分是作者进入美术学院之前1973年到1978年之间画的。徐唯辛为此写到：&ldquo;感谢母亲在家乡的储物间里将这些东西找了出来，其中还有我平生第一幅室外风景铅笔速写。今天看这些画很幼稚，但可以观察一个艺术家在襁褓时的蹒跚之态，这也许是展出这些作品的意义所在。&rdquo; </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (编辑：王开)</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c110725/zlzzbyzhnhzfzbf-blkbkk_lit.jpg{/dede:field}

@@ -1,0 +1,16 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}法学院竺效副教授参加UNEP化工行业安全管理和应急反应项目培训与研讨会{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}法学院{/dede:field}
+{dede:field name='pubdate'}2010-05-04 10:04:08{/dede:field}
+{dede:field name='body'}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4月26日至27日，由联合国环境规划署（UNEP）和国家环境保护部联合主办的&ldquo;化工行业安全管理和应急反应项目培训与研讨会&rdquo;在江苏省张家港市举行。来自联合国环境规划署技术、工业和经济司（UNEP-DTIE）、联合国环境规划署驻华代表处、国家环境保护部环境应急与事故调查中心、江苏省苏州市环保局、张家港市环保局、张家港市消防大队、张家港保税区安监环保局、山东省淄博市环保局、浙江省嘉兴市南湖区环保局等机构的官员，来自美国消防协会 （NFPA）、美国科罗拉多事故规划委员会、阿根廷APEll项目实施协调办和我国清华大学、中国人民大学、中国环境科学研究院等机构的国内外专家，来自美国陶氏化学等当地化工园区企业代表和中化宁波（集团）有限公司等邻近地区化工企业代表共70余人参加了此次活动。&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 法学院副教授竺效博士作为联合国环境规划署为该项目聘任的环境法律顾问出席了本次培训和研讨会，以《中国有关化学品风险交流与信息公开的政策法规与标准》为题作了主题发言，并与清华大学化工系的赵劲松教授共同主持了第二天下午的主题讨论。 <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在张家港期间，竺效博士还出席了当地政府为联合国环境规划署官员和专家一行专设的欢迎晚宴，与当地政府环保、安监等相关官员交流了当地化学品安全事故预防、应急和环境危害预防、响应的实践工作经验及其推动。&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为期两天的培训与研讨会胜利结束后，4月28日上午，联合国环境规划署和环境保护部官员、专家一行还参加了试点区张家港扬子江化工园区的地方协调工作组第一次会议。会议就试点区扬子江化工园区综合社区应急反应预案的开发、项目进一步实施开展结合演习的设计与筹划等内容达成了建设性的共识。 <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （编辑：陈汉南）{/dede:field}
+{dede:field name='litpic'}{/dede:field}

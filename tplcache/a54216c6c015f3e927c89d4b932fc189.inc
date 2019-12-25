@@ -1,0 +1,13 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}法学院冯玉军教授应邀为中石化中原油田各级干部主讲“社会主义法治理念与中国法制改革”{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}法学院{/dede:field}
+{dede:field name='pubdate'}2010-03-24 08:47:25{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3月19日下午，应中石化中原油田管理局党委和法律事务处的邀请，法学院冯玉军教授专程赴中原油田管理局所在地&mdash;&mdash;河南濮阳为该局党政机关和各分公司干部作了题为&ldquo;社会主义法治理念与中国30年法制改革&rdquo;的专场报告。中原油田管理局300多位处室领导和机关干部参加了听讲</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 冯玉军教授分别从法律的内涵与法律（法治）的意义、社会主义法治理念的基本理论、社会主义法治理念的核心内容及其意义、中国社会主义法治的现实成就、中国法治改革30年的历史阶段与发展主线、总结与展望五个个方面向大家进行了详细讲解。中原油田管理局的相关领导和听讲者纷纷表示深受启发，并希望以后能不断深化与人大法学院的校企合作，多听取来自人大法学院的专家们所做的法律报告，这对于中原油田更好地运用法律武器维护权益、稳定经营起到智囊团和专业咨询的作用。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中原油田是中国东部一个重要的石油天然气生产基地。油区横跨河南、山东两省的6市12个县（区），主要勘探开发区域东濮凹陷和川东北普光气田。 截至2008年底，累计探明含油面积455.35平方千米、含气面积149.07平方千米；探明石油地质储量5.76亿吨、凝析油地质储量7.38万吨，探明气层气地质储量615.77亿立方米、溶解气地质储量692.01亿立方米；动用石油地质储量5.31亿吨、天然气地质储量1061亿立方米，累计生产原油1.505亿吨、天然气396.53亿立方米。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 法学院与两大油田将在法律服务、培训、课题合作、交流互访等方面展开合作。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （编辑：张利英）&nbsp;<br />
+</p>{/dede:field}
+{dede:field name='litpic'}{/dede:field}

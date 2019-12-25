@@ -1,0 +1,13 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}陈力丹教授赴台湾参加“新闻典范的挑战与另类媒体：纪念成露茜教授国际学术研讨会”{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}新闻学院{/dede:field}
+{dede:field name='pubdate'}2010-06-07 05:32:29{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为纪念今年1月不幸逝世的著名社会学家、台湾世新大学新闻传播学院院长、《立报》负责人成露茜教授，&ldquo;新闻典范的挑战与另类媒体：纪念成露茜教授国际学术研讨会&rdquo;于5月28－29日在台湾世新大学舍我纪念馆召开。中国人民大学新闻学院陈力丹教授、南开大学新闻学院侯杰教授、湖南大学新闻传播学院唐海江副教授出席会议并做了专题演讲；北京大学新闻传播学院程曼丽教授出席会议并主持了一场演讲。在世新大学做博士后的中国人民大学新闻学院陈继静讲师参加会议并做了发言。 </p>
+<p align="center"><img src="/uploads/allimg/c100619/z2kymzkzffbhnnf-z2hy2.jpg" alt="" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 世新大学董事长成嘉玲教授到会致辞，并亲自主持了第一场的研讨。校长赖鼎铭教授到会致辞，并主持了美国柏克莱加州大学东亚研究院院长叶文心教授的主题演讲《成露茜教授所思考的民国新闻史》。台湾新闻传播学界的知名学者林元晖、黄铃媚、陈世敏、冯建三、张锦华、翁秀琪、林淇瀁等诸位教授，先后在会上担任主持或评议人，彭家发教授亦出席会议并发言。台湾业界代表和各&ldquo;另类媒体&rdquo;、文化行动的负责人出席会议，与参会者进行了广泛的学术交流。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5月29日晚，校长赖鼎铭教授和世新大学人文社会学院院长、舍我纪念馆馆长罗晓南、社会发展研究所所长黄德北等宴请大陆与会者和大陆博士后；30日晚，成嘉玲董事长自费为大陆与会者饯行。成嘉玲、赖鼎铭均谈到5月间与中国人民大学校长纪宝成签订的两校合作协议，希望两校的新闻传播学院之间建立密切的学术和教学联系。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （编辑：徐晶晶）<br />
+</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c100619/z2kymzkzffbhnnf-z2hy2_lit.jpg{/dede:field}

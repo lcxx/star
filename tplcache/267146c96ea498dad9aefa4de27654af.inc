@@ -1,0 +1,22 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}纪宝成校长 程天权书记 2011年新年贺词{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}老师们、同学们、校友们、朋友们： <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 共创辉煌振虎威，十年腾飞待兔岁。2010年渐行渐远，2011年正向我们走来。在此辞旧迎新的时刻，我们谨代表中国人民大学党政领导班子，向全校师生员工、海内外校友以及所有关心、支持人大的各界朋友致以诚挚的问候和良好的祝愿。祝大家身体健康、事业进步、万事顺意！ <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 回眸2010，这是我们国家非比寻常的一年。我们迎来了上海世博会，继北京奥运之后再次向世界一展中华风姿；全国教育工作会议召开，《国家中长期教育改革和发展规划纲要（2010&mdash;2020）》启动实施，中国高等教育迎来了前所未有的发展机遇。 <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 回眸2010，也是我们学校非比寻常的一年。我们迎来了胡锦涛总书记亲临学校考察，迎来了学校命名组建60周年。胡锦涛总书记在考察中多次强调&ldquo;中国人民大学是中国共产党创办的第一所新型大学&rdquo;，对我校&ldquo;立学为民、治学报国&rdquo;的办学宗旨深表赞赏，并明确提出要把我校建设成为&ldquo;人民满意、世界一流&rdquo;大学。总书记的考察标志着学校的发展全面进入一个新阶段，站在一个新起点。 <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2010年，中国人民大学正式吹响了&ldquo;十年腾飞&rdquo;的号角，全校教职员工怀着二次创业的雄心，迈出了持续增强学校综合实力和发展后劲的决定性步伐，充满希望地开启了&ldquo;十年腾飞&rdquo;的历史性跨越，学校的各项事业都取得了新的进展，大事喜事连连，令人振奋，令人鼓舞。年初，学校召开&ldquo;十年腾飞&rdquo;规划调研暨&ldquo;985工程&rdquo;三期建设动员大会，学校领导随即深入五大学部展开深入调研，并决定以学科建设总体规划为主导，做好人才队伍规划、课程建设规划、科研项目规划、提升国际性规划、条件保障规划等一整套&ldquo;十年腾飞&rdquo;事业发展规划，在新世纪取得的巨大成绩的基础上继续奋进，力争到2020年，跻身世界一流大学行列。5月至12月，学校进行了深入开展创先争优活动第一阶段的工作，许多优秀党员在活动中涌现，带动了整个学校创先争优工作的开展。学科建设取得新进展，&ldquo;985工程&rdquo;新一期建设正式启动。科研工作成绩卓越，成功举办中国人文社会科学论坛等高水平论坛，更获得9项国家社科基金重大项目，名列全国高校之首。人才培养质量再创新局面，&ldquo;国际小学期&rdquo;取得三大突破，国学教育五周年结出累累硕果；招生就业工作平稳进展，7704名新生来到人大校园，6640名毕业生奔赴工作岗位或继续深造。与世界高水平大学的交流与合作也得到加强和拓展，进一步提升了学校的国际性，爱尔兰总统玛丽&bull;麦卡利斯、南非总统雅各布&bull;祖马等外国政界人士先后来校访问并发表演讲，我校孔子学院建设成绩斐然，人民大学正日益成为国际交往的活跃舞台。校园建设掀起新一轮高潮，校园东北区改造与建设工程深入开展，图书馆新馆圆满竣工并已投入使用，国学馆工程也即将落成，一个更加&ldquo;美化、绿化、数字化、人文化&rdquo;的校园正呈现在我们眼前。 <br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 展望未来，我们任重道远。2011年是中国共产党建党90周年，是&ldquo;十二五&rdquo;规划的开局年，也是学校新发展的关键年。&ldquo;十年腾飞&rdquo;将在未来一年深入开展，人才培养、科学研究、社会服务、文化交流、党建与思想政治教育等方面工作亦将全面推进，我们将力争在办学内涵上有大幅提升，在办学外延上有新的拓展，迈出新的具有长远战略意义的步伐。就让我们同心同德，携手共创辉煌的2011，共同为实现建设&ldquo;人民满意、世界一流&rdquo;大学的奋斗目标，为推动国家人才强国战略的实施，为我国高等教育事业的改革和发展做出新的更大的贡献！&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国人民大学校长 纪宝成&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;党委书记 程天权&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011年1月1日 <br />{/dede:field}
+{dede:field name='pubdate'}1293731170{/dede:field}
+{dede:field name='litpic'}{/dede:field}

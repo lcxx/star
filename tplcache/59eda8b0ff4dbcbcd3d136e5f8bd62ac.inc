@@ -1,0 +1,14 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}中国人民大学国际货币研究所官方网站开通试运行{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}财政金融学院{/dede:field}
+{dede:field name='pubdate'}2010-06-18 09:40:18{/dede:field}
+{dede:field name='body'}<p>　　日前，中国人民大学国际货币研究所官方网站正式开通试运行。网址为<a href="http://imi.sfruc.edu.cn">http://imi.sfruc.edu.cn</a>。网站分为关于IMI，IMI新闻，IMI视点，政策建议，IMI动态，国际货币评论，读书频道、博客推荐等8大板块。目前网站内容正在进一步完善当中。 <br />
+<br />
+　　中国人民大学国际货币研究所（以下简称&ldquo;货币所&rdquo;）是隶属于中国人民大学财政金融学院与中国财政金融政策研究中心的非赢利性学术研究机构。货币所以立足高远的战略思维与严谨求实的学术精神，致力于探究国际货币前沿理论、推动国际金融业改革实践、培养金融学国际化专业人才，并力争建设成为中国货币崛起与国际货币体系重建等国际金融领域理论与实践的顶尖智库。 <br />
+<br />
+　　货币所拥有雄厚的研究力量与高效的管理团队。1999年诺贝尔经济学奖得主、美国哥伦比亚大学蒙代尔（Robert A. Mundell）教授、香港金融管理局总裁任志刚（Yam Chi Kwong）教授以及美国斯坦福大学麦金农（Ronald I. Mckinnon）教授共同担任顾问委员；北京外国语大学校长、中国国际金融学会副会长陈雨露教授出任学术委员会主任，委员包括贲圣林、曹彤、郭庆旺、瞿强、魏本华、向松祚、张杰、张之骧、赵锡军等11名来自高校、银行和政府部门的专家学者；张杰、曹彤、向松祚分别担任研究所所长、联席所长以及副所长。</p>
+<p>　　（编辑：苗育婧）&nbsp;<br />
+</p>{/dede:field}
+{dede:field name='litpic'}{/dede:field}

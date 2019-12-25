@@ -1,0 +1,17 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}社会与人口学院特色主题团日之宣武先农坛祭农{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}社会与人口学院{/dede:field}
+{dede:field name='pubdate'}2009-04-13 10:08:38{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ldquo;中华民族、五千余载，神农炎帝、是我始祖&hellip;&hellip;我等子孙、祭告祖先，重农固本、薪火相传&hellip;&hellip;&rdquo;4月2日，北京著名古建先农坛里传出了阵阵颇具古风的祭文诵读声，一场大型祭农仪式正在这里举行。中国人民大学社会与人口学院25名学生代表与育才学校中小学生共计四百余人在民俗专家的带领下，在先农坛齐诵祭文、行祭农礼、识五谷、种五谷，将美好的祝愿绘制在风筝上。</p>
+<p align="center"><img alt="" src="/uploads/allimg/c100622/z2kkzlknbmfnfkf-2khy2.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在苍松翠柏和雕梁飞栋的掩映下，同学们站立于先农坛神坛前，敬献稻谷、鲜花和果品，齐诵祭文、向神农氏牌位行礼，听古代建筑博物馆讲解员介绍炎帝神农氏、农耕文化、清明节日文化。&ldquo;我们还是第一次参加这样隆重的祭农仪式，&rdquo;社会与人口学院06级本科生崔璐迪在仪式后难掩激动的心情，&ldquo;这里庄严肃穆，让人感受到了我国自古以来尊农、重农的厚重历史感。&rdquo;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 同学们在园林局专家的指导下学习农业知识，识别农业器械、学习它们的使用方法，尝试播种稻、麦、菽、稷、黍等五谷。看着学生们一招一式地祭农，有板有眼地播种，全国政协委员、中国民协节会委员会主任李汉秋激动地说：&ldquo;有着传统祭农仪式的先农坛才真正体现了它自身的存在价值，焕发了往日的光彩，特别是看到孩子们也参与到这项活动中，我感到由衷地欣慰。&rdquo;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 社会与人口学院团委书记唐颖老师表示：&ldquo;我们希望通过组织这样比较有特色的主题团日活动，让同学们了解农耕知识，体会劳动的艰辛与快乐，在实践中树立起尊农、爱农的意识。同时，生动真切地感受传统节日所蕴含的文化内涵，进一步弘扬爱国主义精神和民族传统文化。&rdquo;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 据专家介绍，我国自古以来就是农业大国，视农为本，祭祀先农和亲耕的传统，可以追溯到周朝。到了明清两代，祭农已经成为国家重要的祭祀典礼。每年仲春亥日，皇帝都要率百官到先农坛举行隆重的仪式，祭祀先农神并在传说中的&ldquo;一亩三分地&rdquo;上，亲自进行耕种，以示对农业的高度重视。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 此次活动由宣武区文明办联合天桥街道举办，人民大学社会与人口学院协办。宣武区委常委、宣传部部长谭晓枫、宣武区文明办主任白杰等领导及社会与人口学院廖菲老师、团委书记唐颖老师出席了活动。《中国青年报》《北京晚报》《京华时报》等多家媒体对活动进行了报道。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<br />
+</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c100622/z2kkzlknbmfnfkf-2khy2_lit.jpg{/dede:field}

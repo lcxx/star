@@ -1,0 +1,2 @@
+
+<li><a onmouseover="Menu(this)" onmouseout="Menu(this)" onfocus="this.blur()" href="[field:typelink/]"><span>[field:typename/]</span></a><div id="subNav" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"></div></li>

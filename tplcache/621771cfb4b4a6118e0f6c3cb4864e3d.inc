@@ -1,0 +1,56 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}中国人民大学发布2010中国发展指数{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}文/谢天武 江颖  图/新闻中心{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12月28日下午，中国发展指数（2010）学术研讨暨发布会在中国人民大学召开，中国人民大学中国调查与数据中心（NSRC）向社会公开发布中国发展指数（2010），这也是学校第5次向社会公开发布指数编制结果。&nbsp;</p>
+<p align="center"><img alt="" width="500" height="333" src="/uploads/allimg/c110113/z2mhnn2mbbbnkbf-ml2hb.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 报告对2009年我国31个省级行政区的&ldquo;中国发展指数&rdquo;总指数及四个分指数（健康、教育、生活水平、社会环境）进行了测算和排序，并对过去六年各省市的变化趋势进行了研究，在此基础上总结出了我国省级行政区社会经济综合发展的新特征。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 全国工商联副主席谢经荣、国家统计局社会科技司司长马京奎、北京航空航天大学经济管理学院教授任若恩、江苏省发展和改革委员会副主任王汉春、中共江苏省委政策研究室副巡视员张伟新、中共广州省委政策研究室副巡视员陈文学、民政部规划财务司副巡视员何姗姗等出席发布会。中国人民大学校长纪宝成教授出席并致辞，中国发展指数研究课题组负责人、中国人民大学常务副校长袁卫教授主持发布会。 </p>
+<p align="center"><img alt="" width="500" height="333" src="/uploads/allimg/c110113/z2mhnn2mbyhmnnf-zfkyhn.jpg" /></p>
+<p align="center"><img alt="" width="500" height="333" src="/uploads/allimg/c110113/z2mhnn2mbyyhhhf-zzmm2f.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 来自学校统计学院、社会与人口学院、经济学院、环境学院的专家学者以及学校办公室、党委宣传部、发展规划处、科研处等相关部处负责人及部分学生代表到会。新华社、人民日报、光明日报、中国青年报、第一财经日报、中国教育报、中央电视台、新浪财经等新闻媒体的记者到会采访。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 纪宝成校长代表学校对发布会的举行表示热烈祝贺。他指出，当前我国正处于全面建设小康社会、构建社会主义和谐社会的关键时期。改革开放以来，我国的经济社会发展取得巨大成就，各项经济平稳较快发展为经济长远可持续发展奠定了重要的基础。但是我们也必须看到，发展中的不平衡、不协调、不可持续问题比较突出，经济增长制约资源环境要素依然很强，城乡之间、地区之间、行业之间的经济发展差距依然比较大，市场格局中出现明显的结构性不和谐，重复建设和资源浪费较为严重，就业总量压力和结构性矛盾同时存在，制约科学发展的体制机制障碍依然较多，深化改革开放，加快转变经济发展方式任务十分艰巨。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 纪宝成校长认为，科学合理的发展评价体系可以促进社会的健康良性发展，而单一片面的评价考核指标可能导致急功近利或者盲目追求政绩，不利于经济、社会、医疗卫生、环境等领域全面可持续发展。GDP可以作为评价地方发展的重要指标，但绝不是唯一指标。GDP对于评价宏观经济的运行状况具有重要意义，但是，不能完全反映社会发展因素，也不能体现环境资源的可持续性。单纯以GDP作为发展评价标准的政绩观直接导致了只关注经济增长而忽视社会发展，只关注经济增长速度而忽视经济增长质量的问题的发生。他指出，我国必须走既要增长又要发展的道路，以科学发展的理念统领我们的工作，以科学的评价体系评价我们目前的发展状况。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 纪宝成校长强调，中国人民大学先后推出&ldquo;三大报告&rdquo;和&ldquo;三大指数&rdquo;发布，即中国经济发展报告，中国社会发展报告，中国人文社会科学发展报告以及中国发展指数，中国宏观经济分析与预测，中国创新指数，这&ldquo;三大报告&rdquo;和&ldquo;三大发布&rdquo;已经成为具有重要影响的学术品牌，是中国人民大学深入贯彻落实科学发展观，充分发挥人文社会科学领域的学科优势的体现，也是中国人民大学贯彻落实胡锦涛总书记关于&ldquo;把人民大学建设成为&lsquo;人民满意、世界一流&rsquo;大学&rdquo;的重要讲话精神的具体举措。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 纪宝成校长希望&ldquo;中国发展指数&rdquo;课题组能够充分发挥在人文社会科学领域的整体优势，公正客观地评价我国各省区社会经济综合发展和可持续发展能力，能够为国家科学制定宏观经济政策促进中国社会经济平稳实现可持续发展提供客观、科学、可靠、完整的意见。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 纪宝成校长同时表示，科学研究应该允许存在争议，中国发展指数应当在实践中不断完善、继续向前持续发展，希望通过社会各界的帮助和努力把中国发展指数建设成为科学合理、客观公正、综合全面、各方广泛认可的发展指数，以弥补当前单纯以经济增长作为评价发展标准的不足，促进社会健康稳定发展。 </p>
+<p align="center"><img alt="" width="500" height="333" src="/uploads/allimg/c110113/z2mhnn2mbkfb2hf-z2k2ln.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 会上，中国人民大学统计学院彭非教授代表课题组做中国发展指数（RCDI2010）主报告，介绍了中国发展指数2010的编制理念、结构、特点以及研究组做出的若干思考。</p>
+<p align="center"><img alt="" width="500" height="333" src="/uploads/allimg/c110113/z2mhnn2mbkhbmzf-zl2fnm.jpg" /></p>
+<p align="center"><img alt="" width="500" height="333" src="/uploads/allimg/c110113/z2mhnn2mbkmyzhf-zhlyzm.jpg" /></p>
+<p align="center"><img alt="" width="500" height="333" src="/uploads/allimg/c110113/z2mhnn2mbnhflbf-zblbhm.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国人民大学经济学院副院长刘元春教授、社会与人口学院副院长李路路教授、环境学院院长马中教授分别就&ldquo;中国收入分配差距拉大的新现象分析&rdquo;、&ldquo;社会发展与社会冲突&mdash;&mdash;和谐社会建设中的张力&rdquo;、&ldquo;经济高速增长背景下的人与自然和谐&rdquo;等做了深度分析与解读，并提出了一系列建议与思考。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2010年中国发展指数的结论表明，我国区域社会经济综合发展水平分四类地区的板块格局基本未变。31个省区中国发展指数、健康、教育和生活水平指数排序与去年相比变化不大，但是社会环境指数序位变化剧烈（只有8个省区序位未变），其中变化最大的是安徽，上升11个序位。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 从2010年中国发展指数的整体态势来看，我国经济发展水平的区域差异最大，社会环境发展水平的区域差异最小；31个省区中国发展指数年增长速度全部呈现正增长的态势；在增长率最快的8个省区中，有5个省区位于中西部地区。另外，一些地区依然存在一定程度的发展不均衡问题。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国发展指数监测显示，2008年以来，我国31个省区中国发展指数均保持正增长状态；在2005和2007年之间，有极个别省份出现微小的负增长，分别是：2005年的上海、浙江和福建； 2006年的山西、广东、重庆、甘肃和新疆；2007年的上海。中国发展指数自2004年以来连续6年保持增长，增幅明显；说明我国社会经济综合发展近年来稳定上升；北京总指数连续5年保持第一，上海保持第二；天津、浙江和江苏连续序位保持不变，分别位于3、4、5位。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 研究还指出了我国当前发展中的GDP连年上升但收入水平呈相对下降趋势、城市化进程中出现的不平衡发展等若干隐忧，并表示解决这些问题的可能方案是，关注经济增长的质量，推动民生和环境建设，真正落实党的十七届五中全会的方针大政，遵循科学的发展规律。</p>
+<p>&nbsp;</p>
+<p align="center"><img alt="" src="/uploads/allimg/c110113/z2mhnn2mbnnblbf-zylklz.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 全国工商联副主席谢经荣给予了中国发展指数（2010）高度评价，他表示，从方法上讲此项研究科学合理，指标稳定；从结果上看，基本符合大家的预期；从影响力上看，有着5年发展经历的中国发展指数在学界有着不小的影响。他希望中国人民大学能够进一步扩大中国发展指数在社会上的影响力，进而为中国社会的科学合理可持续发展做出独有的贡献。</p>
+<p>&nbsp;</p>
+<p align="center"><img alt="" src="/uploads/allimg/c110113/z2mhnn2mbmznbbf-zknzhf.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 国家统计局社会科技司司长马京奎指出，中国人民大学的此项研究充分利用政府资料，保证了数据的可得性与完整性，以简单明了的指数显示出中国各省区社会经济发展的水平，对于地方政府制定具体可行的发展战略有重要的指导意义。同时，他还建议此项研究的方式、内容要与时俱进，随着社会的发展在指标的选取等方面做出必要的微调，并希望此研究项目长久坚持下去，发展成为人民大学的品牌项目。 </p>
+<p align="center"><img alt="" src="/uploads/allimg/c110113/z2mhnn2mbmblnbf-zny2kh.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 江苏省发展和改革委员会副主任王汉春表示，经过聆听此次报告，自身受益匪浅，了解到了江苏以外的全国各地的发展态势，对于江苏省自身的发展有着重大意义，他还建议研究组将文化指标列为指数评价的指标之一。 </p>
+<p align="center"><img alt="" src="/uploads/allimg/c110113/z2mhnn2mbmmz2nf-zmzkzz.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中共江苏省委政策研究室副巡视员张伟新指出，此项中国发展指数的研究关注于各个省区的发展，在微观上关注广大人民的福祉与利益，具有&ldquo;科学性、战略性、指导性&rdquo;，是中国人民大学作为&ldquo;人民的大学&rdquo;，始终发扬&ldquo;立学为民、治学报国&rdquo;的人大精神，想人民所想，急人民所急的生动体现。她表示，希望江苏省能够与中国人民大学建立起牢固的合作关系，共同为社会进步与发展做出应有贡献。</p>
+<p align="center"><img alt="" src="/uploads/allimg/c110113/z2mhnn2myflzllf-2f22zk.jpg" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中共广东省委政策研究室副巡视员陈文学同样高度评价了中国人民大学中国发展指数的研究，希望人民大学能够通过不断完善的指标体系，增强这一指数的权威性，加大这一指数在地方政府间的影响，推动地方发展形成&ldquo;你追我赶&rdquo;的良性竞争局面。 </p>
+<p align="center"><img alt="" src="/uploads/allimg/c110113/z2mhnn2myfymnbf-2zhhyn.jpg" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 民政部规划财务司副巡视员何姗姗建议将城乡低保等有关社会服务的指标纳入评价体系，并表示民政部门将会为广大专家学者的研究提供必要的数据支持和其他可能的帮助。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 袁卫常务副校长代表课题组组表示，将会坚持此项研究项目，并认真考虑各界的意见建议，力争增强中国发展指数的科学性与合理性。他指出，中国发展指数设立的主导思想是贯彻落实发展科学发展观，希望用一套能够衡量科学发展和可持续发展的指标评价体系逐渐替代单纯以GDP或经济发展作为指标导向的评价体系，也希望通过这样的社会研究和服务体现中国人民大学&ldquo;立学为民、治学报国&rdquo;的办学宗旨。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 据悉，中国发展指数（2010）主要采用国家统计部门公布的数据进行计算，指标体系的建立参照了国际上的成功经验，指标的选择强调科学发展及可持续发展的理念，充分体现了发展的全面性，突出区域发展的均衡性。前几年的指标体系略有微调，今年使用的指标体系与2009年相同。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 中国发展指数（RCDI）是中国人民大学三大发布之一，自2007年初起每年定期发布，在社会各界引起了强烈的反响。这项研究由中国人民大学直属跨学科、跨院系的综合性科研机构&mdash;&mdash;中国调查与数据中心（NSRC）承担，集合了中国人民大学多领域的专家学者，也获得了国家统计局的大力支持，为合理度量我国综合发展水平提供了科学的依据。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 相关链接</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://finance.sina.com.cn/focus/2010zgfzzsfb/index.shtml">[新浪专题]中国人民大学中国发展指数（RCPI2010）学术研讨暨发布会</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://society.people.com.cn/GB/86800/13605616.html">[人民网] 中国人民大学发布2010年中国发展指数</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://v.ifeng.com/news/china/201012/0c24927d-749e-4dc0-8893-bc02b34deb8d.shtml"> [凤凰卫视]2010中国发展指数显示民众收入相对下降</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://zqb.cyol.com/content/2010-12/29/content_3471506.htm"> [中国青年报] 专家认为：物价飞涨让百姓对GDP的增长失望</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nbd.com.cn/newshtml/20101229/2010122902582690.html"> [每日经济新闻] 六连增 人民大学再发&ldquo;中国发展指数&rdquo;</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.cfi.net.cn/p20101229000156.html">[中财网] 人民大学发布中国发展指数 连续六年保持增长</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://dycj.ynet.com/article.jsp?oid=75801858">&nbsp;[第一财经日报]收入分配存量调节冀望财产税突破</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （编辑：卢思颖）</p>{/dede:field}
+{dede:field name='pubdate'}1293561296{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c110113/z2mhnn2mbbbnkbf-ml2hb_lit.jpg{/dede:field}

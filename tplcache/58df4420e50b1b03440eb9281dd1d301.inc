@@ -1,0 +1,22 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}哲学院温海明副教授为驻希腊使馆举行儒家思想讲座{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}哲学院{/dede:field}
+{dede:field name='pubdate'}2011-02-13 10:57:24{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1月24日，应驻希腊使馆青年读书会邀请，正在雅典参加研讨会的中国人民大学哲学院院长助理温海明副教授，为使馆馆员举行了关于儒家精神的专题讲座。</p>
+<p align="center"><img height="366" src="/uploads/allimg/c110419/zlflzn2yhbk2lyf-zkbfk.jpg" width="550" alt="" /></p>
+<p align="left">　　 <br />
+<br />
+　　温海明副教授介绍了孔子的生平和儒家的起源。他说，孔子生逢礼崩乐坏的社会动荡变革时期，从一名不成功的政治家转而删述六经，自觉自为地承担起传承发扬中华民族文化精髓的使命。孔子在重重困境中坚持了理想人格，建立起以孝悌、仁义为核心的伦理观念和重视人生现实的哲学体系，主张自立立人、自达达人、克己复礼的个人与社会关系，树立了君子注重礼德的道德楷模。孔子祖述古典的工作，为中国文化留下了流传两千多年的经典，也鼓励着一代代中国学者、思想家重温古典，努力完成为天地立心的文化使命。　 　 <br />
+<br />
+　　温海明介绍了儒学国际化的困境，主张国学研究应回归经典，并根据当下中国和世界的情境，建立内在自主开放的体系。针对国际上对中国文化的兴趣和中国研究的重视，应加强对外介绍传播中国文化，特别是儒释道经典中包含的中国智慧和行为准则。　　 <br />
+<br />
+　　使馆青年读书会秘书长刘威主持了讲座。他说，中国外交官肩负着完善和阐述中国特色社会主义外交理论的使命，这个特色离不开中国国情和传统文化精髓，中华民族复兴也离不开对古代典籍的再认识和新解读，这是我们学习研讨的动力。　　 <br />
+<br />
+　　罗林泉大使、郑曦原参赞等使馆外交官出席了演讲,踊跃提问并参与讨论。罗大使鼓励大家多学习、多思考、多建言，他介绍了在比雷埃夫斯大学做《传统价值与中国外交软实力的源泉》演讲的情况，就如何提高中国文化实力、对外介绍中国文化与温教授进行了讨论。不同年龄层次的外交官纷纷提问，现场气氛热烈。大家感到，新年伊始，举办这次讲座和讨论是一个良好的开端。</p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 相关链接:http://gr.china-embassy.org/chn/xwdt/t790048.htm</p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (编辑:文静) &nbsp;<br />
+<br />
+</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c110419/zlflzn2yhbk2lyf-zkbfk_lit.jpg{/dede:field}

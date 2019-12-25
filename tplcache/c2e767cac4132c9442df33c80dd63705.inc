@@ -1,0 +1,10 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}中国人民大学人类学研究所受到国家民委、云南省人民政府表彰{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}新闻中心{/dede:field}
+{dede:field name='pubdate'}2009-10-28 08:52:10{/dede:field}
+{dede:field name='body'}<p>　　近日，国家民委、云南省人民政府表彰了在国际人类学与民族学联合会第十六届大会筹办工作中做出突出贡献的40个先进集体和404名先进个人。中国人民大学人类学研究所荣获先进集体称号，人类学研究所庄孔韶教授、王有春副教授、黄剑波副教授、刘谦老师以及王媛、和柳、方静文、张锐、李婉君、王建丽、柳娥7名研究生荣获先进个人表彰。</p>
+<p>　　国际人类学与民族学联合会第十六届大会于2009年7月27日至31日在云南省昆明市成功举办。大会有力宣传了我国民族理论政策和民族工作成就展示了我国丰富多彩的多民族文化，促进了人类学民族学界的国际交流与合作，实现了大会预定目标，得到了党中央、国务院的高度评价，得到了全体参会学者的广泛赞誉以及新闻媒体和社会各界的充分肯定。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （编辑：王强）</p>{/dede:field}
+{dede:field name='litpic'}{/dede:field}

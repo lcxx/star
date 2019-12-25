@@ -1,0 +1,20 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}瑞士卢塞恩大学法学院代表团来访并做客第七期“比较法学术沙龙”{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}法学院{/dede:field}
+{dede:field name='pubdate'}2011-03-17 10:49:55{/dede:field}
+{dede:field name='body'}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3月10日下午，瑞士卢塞恩大学法学院代表团访问人民大学法学院，并在比较法教研室举办的第七期&ldquo;比较法学术沙龙&rdquo;上做了以&ldquo;Introduction to Swiss Law&rdquo;为主题的精彩演讲。本次研讨会由比较法教研室主任丁相顺副教授主持，王轶教授、冯玉军教授、杨东副教授以及外事助理董立阳等出席了本次沙龙。&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 冯玉军教授和丁相顺副教授对代表团一行的来访表示热烈欢迎。瑞士法律，特别是瑞士民法典在世界法制史上具有重要地位，然而由于各种原因，中国同学在学习法律的过程中对此并不熟悉，希望本次沙龙能够让同学们对瑞士法律制度有所了解。&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 卢塞恩大学法学院院长雷吉娜&bull;阿比&bull;穆勒教授对人大法学院的热情招待表示感谢，并对卢塞恩大学以及卢塞恩大学法学院进行了简要介绍。卢塞恩大学创始于1600年，而直到二十一世纪卢塞恩大学法学院才开始招收本科学生。虽然历史并不悠久，但在不到十年的时间里，卢塞恩大学法学院就跻身瑞士八大法学院，成为欧洲法学研究的重镇。随后穆勒院长向同学们介绍了瑞士的历史、地理、政治制度、经济、文化和法律制度，并着重介绍了瑞士民法典。作为与德、法、意等多国接壤的国家，瑞士民法典也受到了其他国家民法典的影响，却不失自己的特色。例如，瑞士民法典在体例上与德国民法典类似，均采用五编制，却有所不同：瑞士民法典的第一编不是总则，而是人法；而后四编的内容虽与德国民法典类似，但顺序不同；最为重要的是，在瑞士民法典的第五编《债务法》部分，包含了在法、德商法典的内容。&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 瑞士的私人银行业与资产管理举世闻名，这些成功经验对我国方兴未艾的资产管理行业具有重要的借鉴意义。法兰克&bull;泰施教授以&ldquo;Asset Management-The Swiss Legal Framework&rdquo;为题向同学们介绍了瑞士私人银行业和资产管理的发展、金融市场与资产管理的运作、瑞士的银行监管以及在瑞士的资产管理业发展过程中产生的一系列法律法规。而亚历山大&bull;莫拉瓦教授则以&ldquo;Why do we need Judges?&rdquo;为题，从比较宪法以及比较视点下的个人权利保护和自由、平等和歧视的角度做演讲。&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 最后的提问环节，同学们异常踊跃，就瑞士的法官造法、民法典中的补偿性赔偿与美国民法中的惩罚性赔偿比较以及在资产管理中的隐私保密方面提出各种疑问，并发表了自己的看法。瑞士教授们一一耐心解答，场面热烈。然而由于代表团时间紧张，没能满足所有同学的提问请求。王轶教授和丁相顺副教授对卢塞恩大学代表团的精彩演讲表示感谢，而卢塞恩大学代表团的教授们则对人大法学院学生的法律素养以及英语水平称赞有加。讲演结束后，法学院宴请了代表团一行。&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ldquo;比较法学术沙龙&rdquo;是由比较法教研室承办，由&ldquo;国际型比较法法律人才&rdquo;培养计划的同学参与组织的学术活动。&ldquo;比较法学术沙龙&rdquo;使用英文作为工作语言，邀请外国学者、律师等进行讲座，并就相关问题展开讨论，旨在扩大同学的国际学术视野，英文表达水平。&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (编辑：周庆誉) <br />{/dede:field}
+{dede:field name='litpic'}{/dede:field}

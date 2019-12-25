@@ -1,0 +1,40 @@
+<?php
+$z[0]=Array("global","",212,240);
+$z[0][4]['name']="cfg_soft_lang";
+$z[1]=Array("field","",335,358);
+$z[1][4]['name']="seotitle";
+$z[2]=Array("global","",359,385);
+$z[2][4]['name']="cfg_webname";
+$z[3]=Array("field","",426,455);
+$z[3][4]['name']="keywords";
+$z[4]=Array("field","",495,553);
+$z[4][4]['name']="description";
+$z[4][4]['function']="html2text(@me)";
+$z[5]=Array("include","",874,921);
+$z[5][4]['file']="inc/top.htm";
+$z[5][4]['ismake']="yes";
+$z[6]=Array("field","",1027,1056);
+$z[6][4]['name']="position";
+$z[7]=Array("myad","",1104,1135);
+$z[7][4]['name']="listContent";
+$z[8]=Array("field","",1135,1156);
+$z[8][4]['name']="content";
+$z[9]=Array("list","\r\n<dl>\r\n	<dt><a href=\"[field:arcurl/]\" class=\"tit\">[field:title/]</a> </dt>\r\n	<dd>[field:description/]...</dd>\r\n</dl>\r\n",1187,1343);
+$z[9][4]['pagesize']="20";
+$z[10]=Array("pagelist","",1377,1455);
+$z[10][4]['listitem']="info,index,end,pre,next,pageno,option";
+$z[10][4]['listsize']="5";
+$z[11]=Array("myad","",1587,1618);
+$z[11][4]['name']="lianxiWomen";
+$z[12]=Array("channel","\r\n<li><a href=\"[field:typeurl/]\">[field:typename/]</a></li>",1716,1889);
+$z[12][4]['type']="son";
+$z[12][4]['currentstyle']="<li><a href=\"~typelink~\" class=\"Hover\">~typename~</a></li>";
+$z[13]=Array("field","",1982,2009);
+$z[13][4]['name']="phpurl";
+$z[14]=Array("myad","",2314,2345);
+$z[14][4]['name']="rightCourse";
+$z[15]=Array("include","",2466,2516);
+$z[15][4]['file']="inc/footer.htm";
+$z[15][4]['ismake']="yes";
+
+?>

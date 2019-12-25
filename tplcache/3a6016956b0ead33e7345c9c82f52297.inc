@@ -1,0 +1,10 @@
+{dede:field name='keywords'}{/dede:field}
+{dede:field name='description'}{/dede:field}
+{dede:field name='title'}法学院教授应邀出席最高人民法院强制执行单独立法研讨会并分别承担最高人民法院委托课题{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}法学院{/dede:field}
+{dede:field name='pubdate'}2010-12-29 10:43:18{/dede:field}
+{dede:field name='body'}<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12月23日，中国人民大学法学院江伟教授、肖建国教授应邀出席最高人民法院强制执行单独立法十大理论问题研讨会，就最高人民法院拟定的强制执行立法十大理论问题的研究方向和研究重点进行交流讨论。研讨会由最高人民法院副院长江必新主持，最高人民法院执行局局长俞灵雨、副局长张根大等到会。法学院江伟教授和肖建国教授接受最高人民法院的委托，分别承担了&ldquo;强制执行与民事诉讼的关系研究&rdquo;和&ldquo;执行当事人制度研究&rdquo;课题。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 按照最高人民法院的部署，强制执行单独立法的十大理论问题包括：强制执行与民事诉讼的关系、强制执行法的体系结构、执行机构、执行当事人、责任财产、强制措施与执行措施、执行管辖、参与分配、执行监督与执行救济等。分别委托给中国人民大学、北京大学、中国政法大学、清华大学、西南政法大学、中央财经大学、北京航空航天大学等高校的学者承担。 </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （编辑：卢思颖）</p>{/dede:field}
+{dede:field name='litpic'}{/dede:field}

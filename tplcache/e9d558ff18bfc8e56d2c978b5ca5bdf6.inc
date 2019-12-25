@@ -1,0 +1,1 @@
+<a href='/plus/view.php?aid=[field:id/]' target='_blank'>[field:description function="cn_substr('@me',100)"/]</a>¡­ <span class="quanwen r">ÔÄ¶ÁÈ«ÎÄ>>
