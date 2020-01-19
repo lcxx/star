@@ -1,1 +1,0 @@
-<li><a href="../ructpl/[field:arcurl/]">[field:title/]</a></li>

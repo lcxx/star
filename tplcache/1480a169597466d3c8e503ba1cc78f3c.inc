@@ -1,1 +1,0 @@
-{dede:list  pagesize='10' col='1' titlelen='80' orderby='pubdate' orderway='desc'  typeid='18'  channel='1' }<li>¡¤<a target="_blank" href="http://zaizhi.ruc.edu.cn[field:arcurl/]">[field:title/]</a></li>{/dede:list}

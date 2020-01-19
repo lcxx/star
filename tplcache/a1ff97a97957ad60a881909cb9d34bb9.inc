@@ -1,1 +1,0 @@
-<li>¡¤<a target="_blank" href="http://zaizhi.ruc.edu.cn[field:arcurl/]" title="[field:title/]">[field:title/]</a></li>

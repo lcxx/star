@@ -1,1 +1,0 @@
-document.write("¡¤<a href='[field:arcurl/]'>[field:title function="htmlspecialchars('@me')"/]</a><br>");

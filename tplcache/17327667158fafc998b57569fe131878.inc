@@ -1,2 +1,0 @@
-<div id="Switch_[field:global name=autoindex/]" class="slide">
-	<a href="[field:arcurl/]" rel="[field:global name=autoindex/]"><img alt="[field:title/]" onmouseout="goonSwitch();" onmouseover="pauseSwitch();" src="[field:picname/]" /></a></div>
